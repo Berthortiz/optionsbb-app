@@ -1,0 +1,5 @@
+# La app NO necesita nada para arrancar (solo Python 3.10+).
+# Opcional, solo para el botón "Descargar Excel" del reporte de desempeño:
+openpyxl
+# Opcional en Windows si falla la zona horaria America/New_York:
+tzdata

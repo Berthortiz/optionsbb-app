@@ -1,0 +1,377 @@
+Calculadora de ||| Options ||| Calculadora de
+opciones ||| calculator ||| opções
+Ganancia y pérdida, equilibrio y griegas de tu estrategia ||| Profit and loss, breakeven and Greeks of your strategy ||| Ganho e perda, ponto de equilíbrio e gregas da sua estratégia
+Símbolo (opcional) ||| Symbol (optional) ||| Símbolo (opcional)
+Precio de la acción (vacío = actual) ||| Stock price (empty = current) ||| Preço da ação (vazio = atual)
+Volatilidad implícita % ||| Implied volatility % ||| Volatilidade implícita %
+Días al vencimiento ||| Days to expiration ||| Dias até o vencimento
+Estrategia ||| Strategy ||| Estratégia
+Comprar call ||| Buy call ||| Comprar call
+Comprar put ||| Buy put ||| Comprar put
+Cover call ({} acciones + call vendido) ||| Covered call ({} shares + short call) ||| Covered call ({} ações + call vendida)
+Put vendido con efectivo ||| Cash-secured put ||| Put vendida com dinheiro
+Put protector (acciones + put) ||| Protective put (shares + put) ||| Put protetora (ações + put)
+Spread alcista con calls ||| Bull call spread ||| Trava de alta com calls
+Spread bajista con puts ||| Bear put spread ||| Trava de baixa com puts
+Straddle (call + put) ||| Straddle (call + put) ||| Straddle (call + put)
+Iron condor ||| Iron condor ||| Iron condor
+Modo ||| Mode ||| Modo
+Plantilla ||| Template ||| Modelo
+Patas libres (hasta {}) ||| Free legs (up to {}) ||| Pernas livres (até {})
+Calcular ||| Calculate ||| Calcular
+Débito (pagas) ||| Debit (you pay) ||| Débito (você paga)
+Crédito (cobras) ||| Credit (you collect) ||| Crédito (você recebe)
+Ganancia máxima ||| Maximum profit ||| Ganho máximo
+Pérdida máxima ||| Maximum loss ||| Perda máxima
+Ilimitada ||| Unlimited ||| Ilimitada
+Punto(s) de equilibrio ||| Breakeven point(s) ||| Ponto(s) de equilíbrio
+Probabilidad de ganar ||| Probability of profit ||| Probabilidade de ganhar
+Al vencimiento (ganancia) ||| At expiration (profit) ||| No vencimento (ganho)
+Al vencimiento (pérdida) ||| At expiration (loss) ||| No vencimento (perda)
+Hoy / en N días ||| Today / in N days ||| Hoje / em N dias
+Ver la curva de «hoy» dentro de ||| Show the “today” curve in ||| Ver a curva de «hoje» daqui a
+{} día(s) ||| {} day(s) ||| {} dia(s)
+Griegas de la posición ||| Position Greeks ||| Gregas da posição
+Delta ||| Delta ||| Delta
+Gamma ||| Gamma ||| Gama
+Theta por día ||| Theta per day ||| Theta por dia
+Vega por {} vol. ||| Vega per {} vol. ||| Vega por {} vol.
+Pata ||| Leg ||| Perna
+Cantidad ||| Quantity ||| Quantidade
+Días ||| Days ||| Dias
+Prima ||| Premium ||| Prêmio
+Compra ||| Buy ||| Compra
+Venta ||| Sell ||| Venda
+Compra/Venta ||| Buy/Sell ||| Compra/Venda
+Acción ||| Stock ||| Ação
+Prima (opc.) ||| Premium (opt.) ||| Prêmio (opc.)
++ Agregar pata ||| + Add leg ||| + Adicionar perna
+Máximo 6 patas ||| Maximum 6 legs ||| Máximo 6 pernas
+Para una acción, el «strike» es tu precio de compra y la cantidad son acciones (no contratos). ||| For a stock, the “strike” is your purchase price and the quantity is shares (not contracts). ||| Para uma ação, o «strike» é seu preço de compra e a quantidade são ações (não contratos).
+Las primas se estiman con Black-Scholes y la volatilidad que indiques (puedes escribir tu propia prima en el modo de patas libres). Es una simulación educativa, no una oferta ni asesoría. ||| Premiums are estimated with Black-Scholes and the volatility you enter (you can type your own premium in free-legs mode). It is an educational simulation, not an offer or advice. ||| Os prêmios são estimados com Black-Scholes e a volatilidade que você informar (você pode digitar seu próprio prêmio no modo de pernas livres). É uma simulação educativa, não uma oferta nem assessoria.
+Historial de ||| Earnings ||| Histórico de
+earnings ||| history ||| earnings
+Cómo se movió el precio en cada reporte anterior (calculado automáticamente) ||| How the price moved on each previous report (calculated automatically) ||| Como o preço se moveu em cada relatório anterior (calculado automaticamente)
+Elige una acción ||| Choose a stock ||| Escolha uma ação
+Datos simulados (modo DEMO): las fechas y los movimientos no son reales. ||| Simulated data (DEMO mode): the dates and moves are not real. ||| Dados simulados (modo DEMO): as datas e os movimentos não são reais.
+Próximo reporte: ||| Next report: ||| Próximo relatório:
+Resumen · últimos {} reportes ||| Summary · last {} reports ||| Resumo · últimos {} relatórios
+Movimiento medio (día) ||| Average move (day) ||| Movimento médio (dia)
+Gap medio de apertura ||| Average opening gap ||| Gap médio de abertura
+Mediana ||| Median ||| Mediana
+Subió / bajó ||| Up / down ||| Subiu / caiu
+Mejor ||| Best ||| Melhor
+Peor ||| Worst ||| Pior
+Rango medio del día ||| Average day range ||| Faixa média do dia
+Movimiento del día del reporte ||| Move on report day ||| Movimento no dia do relatório
+Detalle ||| Detail ||| Detalhe
+Fecha ||| Date ||| Data
+Hora ||| Time ||| Hora
+Cierre previo ||| Previous close ||| Fechamento anterior
+Apertura ||| Open ||| Abertura
+Cierre ||| Close ||| Fechamento
+Gap ||| Gap ||| Gap
+Día ||| Day ||| Dia
+Rango ||| Range ||| Faixa
+Día siguiente ||| Next day ||| Dia seguinte
+Después del cierre ||| After close ||| Após o fechamento
+Antes de apertura ||| Before open ||| Antes da abertura
+Durante el mercado ||| During market hours ||| Durante o pregão
+El movimiento se mide contra el cierre previo a la reacción (si reporta después del cierre, la reacción es el día siguiente). Las fechas vienen de Finnhub y los precios de Schwab; no hay captura manual. ||| The move is measured against the close before the reaction (if it reports after the close, the reaction is the next day). Dates come from Finnhub and prices from Schwab; there is no manual entry. ||| O movimento é medido contra o fechamento anterior à reação (se divulga após o fechamento, a reação é no dia seguinte). As datas vêm da Finnhub e os preços da Schwab; não há digitação manual.
+Exposición ||| Gamma ||| Exposição
+gamma (GEX) ||| exposure (GEX) ||| gama (GEX)
+Dónde están las paredes de calls y puts en la cadena de opciones ||| Where the call and put walls are in the option chain ||| Onde estão as paredes de calls e puts na cadeia de opções
+Todos los vencimientos ||| All expirations ||| Todos os vencimentos
+Ver ||| View ||| Ver
+SPY · precio {} · todos los vencimientos ||| SPY · price {} · all expirations ||| SPY · preço {} · todos os vencimentos
+Pared de calls (resistencia) ||| Call wall (resistance) ||| Parede de calls (resistência)
+Pared de puts (soporte) ||| Put wall (support) ||| Parede de puts (suporte)
+Gamma flip ||| Gamma flip ||| Gamma flip
+GEX neto ||| Net GEX ||| GEX líquido
+Régimen ||| Regime ||| Regime
+Gamma positiva ||| Positive gamma ||| Gama positiva
+Gamma negativa ||| Negative gamma ||| Gama negativa
+Con gamma positiva los dealers tienden a comprar en caídas y vender en subidas: el precio suele moverse menos y puede quedar «pegado» entre las paredes. ||| With positive gamma dealers tend to buy dips and sell rallies: price usually moves less and can get “pinned” between the walls. ||| Com gama positiva os dealers tendem a comprar nas quedas e vender nas altas: o preço costuma se mover menos e pode ficar «preso» entre as paredes.
+Con gamma negativa los dealers acompañan el movimiento: pueden amplificar subidas y caídas. ||| With negative gamma dealers go with the move: they can amplify rallies and drops. ||| Com gama negativa os dealers acompanham o movimento: podem amplificar altas e quedas.
+{} ◂ precio ||| {} ◂ price ||| {} ◂ preço
+▲ pared de calls ||| ▲ call wall ||| ▲ parede de calls
+▼ pared de puts ||| ▼ put wall ||| ▼ parede de puts
+Calls (GEX +) ||| Calls (GEX +) ||| Calls (GEX +)
+Puts (GEX −) ||| Puts (GEX −) ||| Puts (GEX −)
+Fuente: gamma calculada (Black-Scholes). Supuesto habitual: los dealers están largos las calls y cortos las puts de los clientes; es una estimación, no un dato oficial. Educativo, no es asesoría. ||| Source: calculated gamma (Black-Scholes). Usual assumption: dealers are long the calls and short the puts of clients; it is an estimate, not official data. Educational, not advice. ||| Fonte: gama calculada (Black-Scholes). Premissa habitual: os dealers estão comprados nas calls e vendidos nas puts dos clientes; é uma estimativa, não um dado oficial. Educativo, não é assessoria.
+Fuente: gamma de Schwab. Supuesto habitual: los dealers están largos las calls y cortos las puts de los clientes; es una estimación, no un dato oficial. Educativo, no es asesoría. ||| Source: Schwab gamma. Usual assumption: dealers are long the calls and short the puts of clients; it is an estimate, not official data. Educational, not advice. ||| Fonte: gama da Schwab. Premissa habitual: os dealers estão comprados nas calls e vendidos nas puts dos clientes; é uma estimativa, não um dado oficial. Educativo, não é assessoria.
+GEX por strike ||| GEX by strike ||| GEX por strike
+Flujo ||| Flow ||| Fluxo
+volumen → open interest ||| volume → open interest ||| volume → open interest
+Cómo leer esta tabla ||| How to read this table ||| Como ler esta tabela
+El volumen del día ||| The day's volume ||| O volume do dia
+no “se convierte” en open interest por sí solo: la OCC publica el OI cada noche. La app guarda el volumen y el OI al cierre de D y el OI de la mañana de ||| doesn't “turn into” open interest by itself: the OCC publishes OI every night. The app saves the volume and OI at the close of D and the OI of the morning of ||| não “se converte” em open interest sozinho: a OCC publica o OI toda noite. O app guarda o volume e o OI no fechamento de D e o OI da manhã de
+D{} ||| D{} ||| D{}
+; la diferencia dice cuánto cambió de verdad. ||| ; the difference tells how much really changed. ||| ; a diferença mostra quanto mudou de verdade.
+ΔOI ||| ΔOI ||| ΔOI
+= OI después − OI antes · ||| = OI after − OI before · ||| = OI depois − OI antes ·
+% OI ||| % OI ||| % OI
+= ΔOI ÷ OI antes · ||| = ΔOI ÷ OI before · ||| = ΔOI ÷ OI antes ·
+Conversión ||| Conversion ||| Conversão
+= ΔOI ÷ volumen: cerca de {} % casi todo fueron posiciones nuevas ( ||| = ΔOI ÷ volume: near {} % almost all were new positions ( ||| = ΔOI ÷ volume: perto de {} % quase tudo foram posições novas (
+apertura probable ||| likely opening ||| abertura provável
+), cerca de {} % fueron cierres, cerca de {} % day trading o traspasos. ||| ), near {} % were closings, near {} % day trading or transfers. ||| ), perto de {} % foram fechamentos, perto de {} % day trade ou transferências.
+Limitación: con volumen y OI no se sabe si el flujo fue ||| Limitation: with volume and OI you can't tell whether the flow was ||| Limitação: com volume e OI não se sabe se o fluxo foi
+compra o venta ||| a buy or a sell ||| compra ou venda
+(un call con mucho volumen puede ser alcista o bajista). Los contratos que vencen en D aparecen como “Vencido” y no cuentan. ||| (a call with a lot of volume can be bullish or bearish). Contracts that expire on D appear as “Expired” and don't count. ||| (uma call com muito volume pode ser altista ou baixista). Os contratos que vencem em D aparecem como “Vencido” e não contam.
+Volumen {} OCT {} → OI {} OCT {} ||| Volume {} OCT {} → OI {} OCT {} ||| Volume {} OUT {} → OI {} OUT {}
+Por acción ||| By stock ||| Por ação
+Por contrato ||| By contract ||| Por contrato
+Calls + Puts ||| Calls + Puts ||| Calls + Puts
+Calls ||| Calls ||| Calls
+Puts ||| Puts ||| Puts
+Vol. mín. ||| Min. vol. ||| Vol. mín.
+Toda lectura ||| Any reading ||| Qualquer leitura
+Apertura probable ||| Likely opening ||| Abertura provável
+Cierre probable ||| Likely closing ||| Fechamento provável
+Mixto ||| Mixed ||| Misto
+Vencido ||| Expired ||| Vencido
+Contratos analizados ||| Contracts analyzed ||| Contratos analisados
+Volumen del día ||| Day's volume ||| Volume do dia
+ΔOI neto ||| Net ΔOI ||| ΔOI líquido
+Vol. Calls ||| Call vol. ||| Vol. Calls
+Vol. Puts ||| Put vol. ||| Vol. Puts
+Put/Call ||| Put/Call ||| Put/Call
+ΔOI Calls ||| Call ΔOI ||| ΔOI Calls
+ΔOI Puts ||| Put ΔOI ||| ΔOI Puts
+ΔOI total ||| Total ΔOI ||| ΔOI total
+Contrato líder ||| Leading contract ||| Contrato líder
+Día analizado ||| Day analyzed ||| Dia analisado
+Lectura ||| Reading ||| Leitura
+Buscar símbolo ||| Search symbol ||| Buscar símbolo
+Aún no hay datos de OI. ||| There is no OI data yet. ||| Ainda não há dados de OI.
+La app toma una foto del volumen a las 4:15 pm ET y otra del OI a las 9:00 am ET del día siguiente. El administrador puede forzarlas desde la pestaña Cuenta. ||| The app takes a snapshot of volume at 4:15 pm ET and another of OI at 9:00 am ET the next day. The administrator can force them from the Account tab. ||| O app tira uma foto do volume às 16:15 ET e outra do OI às 9:00 ET do dia seguinte. O administrador pode forçá-las na aba Conta.
+Ningún contrato cumple los filtros. ||| No contract meets the filters. ||| Nenhum contrato atende aos filtros.
+Ninguna acción cumple los filtros. ||| No stock meets the filters. ||| Nenhuma ação atende aos filtros.
+acciones clave ||| key stocks ||| ações-chave
+Tecnología ||| Technology ||| Tecnologia
+Comunicaciones ||| Communications ||| Comunicações
+Consumo discrecional ||| Consumer discretionary ||| Consumo discricionário
+Consumo básico ||| Consumer staples ||| Consumo básico
+Salud ||| Health care ||| Saúde
+Financiero ||| Financials ||| Financeiro
+Industriales ||| Industrials ||| Industriais
+Energía ||| Energy ||| Energia
+Materiales ||| Materials ||| Materiais
+Bienes raíces ||| Real estate ||| Imóveis
+Servicios públicos ||| Utilities ||| Serviços públicos
+Volumen puts ÷ calls ||| Puts ÷ calls volume ||| Volume puts ÷ calls
+Ranking de ||| Strategy ||| Ranking de
+estrategias ||| ranking ||| estratégias
+Las más efectivas por temporalidad y en qué acciones se dan ||| The most effective by timeframe and on which stocks they occur ||| As mais eficazes por temporalidade e em quais ações ocorrem
+Temporalidad {} min ||| {} min timeframe ||| Temporalidade {} min
+% aciertos ||| % hit rate ||| % acertos
+Rend. prom. ||| Avg. return ||| Rend. médio
+Factor ||| Factor ||| Fator
+catálogo ||| catalog ||| catálogo
+Cruce {}/{} con volumen ||| {}/{} crossover with volume ||| Cruzamento {}/{} com volume
+Cruce {}/{} bajista con volumen ||| {}/{} bearish crossover with volume ||| Cruzamento {}/{} baixista com volume
+Ruptura de {} velas con volumen ||| {}-candle breakout with volume ||| Rompimento de {} velas com volume
+Impulso sobre SMA {} ||| Momentum above SMA {} ||| Impulso acima da SMA {}
+Caída bajo SMA {} ||| Drop below SMA {} ||| Queda abaixo da SMA {}
+Rechazo por sobrecompra ||| Overbought rejection ||| Rejeição por sobrecompra
+Rebote por sobreventa ||| Oversold bounce ||| Repique por sobrevenda
+Ruptura de soporte con volumen ||| Support breakdown with volume ||| Rompimento de suporte com volume
+Cada señal se mide por el cambio del precio {} velas después (a favor de la señal). Solo entran estrategias con {}+ señales. Rend. prom. = promedio por señal. En modo DEMO usa datos simulados. Es historia: no garantiza resultados futuros. ||| Each signal is measured by the price change {} candles later (in favor of the signal). Only strategies with {}+ signals are included. Avg. return = average per signal. In DEMO mode it uses simulated data. It is history: it doesn't guarantee future results. ||| Cada sinal é medido pela variação do preço {} velas depois (a favor do sinal). Só entram estratégias com {}+ sinais. Rend. médio = média por sinal. No modo DEMO usa dados simulados. É história: não garante resultados futuros.
+Ganancias ÷ pérdidas ||| Gains ÷ losses ||| Ganhos ÷ perdas
+{} señales · {} aciertos ||| {} signals · {} hits ||| {} sinais · {} acertos
+por estrategia ||| by strategy ||| por estratégia
+Sin datos suficientes ||| Not enough data ||| Sem dados suficientes
+Ninguna estrategia tiene señales suficientes todavía. ||| No strategy has enough signals yet. ||| Nenhuma estratégia tem sinais suficientes ainda.
+Calculando el ranking por primera vez; vuelve en un minuto. ||| Calculating the ranking for the first time; come back in a minute. ||| Calculando o ranking pela primeira vez; volte em um minuto.
+Backtest exportado desde Thinkorswim (Strategy Report) ||| Backtest exported from Thinkorswim (Strategy Report) ||| Backtest exportado do Thinkorswim (Strategy Report)
+⬇ Descargar Excel ||| ⬇ Download Excel ||| ⬇ Baixar Excel
+Eliminar ||| Delete ||| Excluir
+Subir reporte de Thinkorswim ||| Upload Thinkorswim report ||| Enviar relatório do Thinkorswim
+(.csv o .xlsx) — arrastra el archivo aquí o ||| (.csv or .xlsx) — drag the file here or ||| (.csv ou .xlsx) — arraste o arquivo aqui ou
+Elegir archivo ||| Choose file ||| Escolher arquivo
+En TOS: Charts → Strategies → Show Report → pestaña Trade List → clic derecho → Export to File. ||| In TOS: Charts → Strategies → Show Report → Trade List tab → right click → Export to File. ||| No TOS: Charts → Strategies → Show Report → aba Trade List → clique direito → Export to File.
+OPTIONS BB  |  Reporte de Desempeño por Estrategia ||| OPTIONS BB  |  Strategy Performance Report ||| OPTIONS BB  |  Relatório de Desempenho por Estratégia
+Símbolo: ||| Symbol: ||| Símbolo:
+DEMO · cifras ilustrativas ||| DEMO · illustrative figures ||| DEMO · valores ilustrativos
+Operaciones cerradas ||| Closed trades ||| Operações encerradas
+Ganadas ||| Wins ||| Ganhas
+Perdidas ||| Losses ||| Perdidas
+% Acierto global ||| Overall hit rate % ||| % de acerto global
+P/L neto total ||| Total net P/L ||| P/L líquido total
+Operaciones ||| Trades ||| Operações
+% Acierto ||| Hit rate % ||| % de acerto
+P/L Neto ||| Net P/L ||| P/L Líquido
+Ganancia Prom. ||| Avg. Win ||| Ganho Médio
+Pérdida Prom. ||| Avg. Loss ||| Perda Média
+Mejor Op. ||| Best Trade ||| Melhor Op.
+Peor Op. ||| Worst Trade ||| Pior Op.
+Factor Ben. ||| Profit Factor ||| Fator de Lucro
+Martillo Bajista ||| Bearish Hammer ||| Martelo Baixista
+Nota: Martillo Bajista no muestra operaciones cerradas en este periodo. ||| Note: Bearish Hammer shows no closed trades in this period. ||| Nota: Martelo Baixista não mostra operações encerradas neste período.
+Expectativa por operación {} · Máx. retroceso (drawdown) {} Un backtest describe el pasado: no garantiza resultados futuros. ||| Expectancy per trade {} · Max drawdown {} A backtest describes the past: it doesn't guarantee future results. ||| Expectativa por operação {} · Máx. rebaixamento (drawdown) {} Um backtest descreve o passado: não garante resultados futuros.
+% de Acierto por Estrategia ||| Hit Rate % by Strategy ||| % de Acerto por Estratégia
+Ganadas vs Perdidas por Estrategia ||| Wins vs Losses by Strategy ||| Ganhas vs Perdidas por Estratégia
+Curva de P/L acumulado ||| Cumulative P/L curve ||| Curva de P/L acumulado
+(cada punto es una operación cerrada; verde = ganada, rojo = perdida) ||| (each point is a closed trade; green = win, red = loss) ||| (cada ponto é uma operação encerrada; verde = ganha, vermelho = perdida)
+Operaciones ({}) ||| Trades ({}) ||| Operações ({})
+Entrada ||| Entry ||| Entrada
+Salida ||| Exit ||| Saída
+P/L ||| P/L ||| P/L
+Acumulado ||| Cumulative ||| Acumulado
+Reporte ||| Report ||| Relatório
+p. ej. MU ||| e.g. MU ||| ex.: MU
+Señales de ||| Mentor ||| Sinais de
+mentores ||| signals ||| mentores
+Alarmas de estrategias clásicas y de la comunidad · velas de {} min ||| Alerts for classic and community strategies · {}-min candles ||| Alarmes de estratégias clássicas e da comunidade · velas de {} min
+Catálogo de estrategias ||| Strategy catalog ||| Catálogo de estratégias
+Clásica (genérica) · Español ||| Classic (generic) · Spanish ||| Clássica (genérica) · Espanhol
+Cruce alcista de medias con volumen superior al promedio. ||| Bullish moving-average crossover with above-average volume. ||| Cruzamento altista de médias com volume acima da média.
+SMA {} cruza al alza la SMA {} ||| SMA {} crosses above SMA {} ||| SMA {} cruza para cima a SMA {}
+Volumen ≥ {}× el promedio de {} velas ||| Volume ≥ {}× the {}-candle average ||| Volume ≥ {}× a média de {} velas
+☆ Seguir ||| ☆ Follow ||| ☆ Seguir
+Quitar del catálogo ||| Remove from catalog ||| Remover do catálogo
+RSI bajo {} y vela verde de reversión. ||| RSI below {} and a green reversal candle. ||| RSI abaixo de {} e vela verde de reversão.
+RSI({}) menor que {} ||| RSI({}) below {} ||| RSI({}) menor que {}
+Vela verde con cuerpo ≥ {} del rango ||| Green candle with body ≥ {} of the range ||| Vela verde com corpo ≥ {} da faixa
+Sin señales ahora ||| No signals now ||| Sem sinais agora
+Cierre sobre el máximo de {} velas con volumen explosivo. ||| Close above the {}-candle high with explosive volume. ||| Fechamento acima da máxima de {} velas com volume explosivo.
+Cierre rompe al alza el máximo de {} velas ||| Close breaks above the {}-candle high ||| Fechamento rompe para cima a máxima de {} velas
+Precio sobre la SMA {} y avance de {} % en {} velas. ||| Price above SMA {} and a {} % advance in {} candles. ||| Preço acima da SMA {} e avanço de {} % em {} velas.
+Precio sobre la SMA {} ||| Price above SMA {} ||| Preço acima da SMA {}
+Cambio en {} velas mayor que {} ||| Change over {} candles greater than {} ||| Variação em {} velas maior que {}
+Cruce bajista de medias con volumen superior al promedio. ||| Bearish moving-average crossover with above-average volume. ||| Cruzamento baixista de médias com volume acima da média.
+SMA {} cruza a la baja la SMA {} ||| SMA {} crosses below SMA {} ||| SMA {} cruza para baixo a SMA {}
+RSI sobre {} y vela roja de reversión. ||| RSI above {} and a red reversal candle. ||| RSI acima de {} e vela vermelha de reversão.
+RSI({}) mayor que {} ||| RSI({}) above {} ||| RSI({}) maior que {}
+Vela roja con cuerpo ≥ {} del rango ||| Red candle with body ≥ {} of the range ||| Vela vermelha com corpo ≥ {} da faixa
+Cierre bajo el mínimo de {} velas con volumen explosivo. ||| Close below the {}-candle low with explosive volume. ||| Fechamento abaixo da mínima de {} velas com volume explosivo.
+Cierre rompe a la baja el mínimo de {} velas ||| Close breaks below the {}-candle low ||| Fechamento rompe para baixo a mínima de {} velas
+Precio bajo la SMA {} y caída de {} % en {} velas. ||| Price below SMA {} and a {} % drop in {} candles. ||| Preço abaixo da SMA {} e queda de {} % em {} velas.
+Precio bajo la SMA {} ||| Price below SMA {} ||| Preço abaixo da SMA {}
+Cambio en {} velas menor que {} ||| Change over {} candles below {} ||| Variação em {} velas menor que {}
+Agregar estrategia al catálogo ||| Add strategy to catalog ||| Adicionar estratégia ao catálogo
+Crea aquí las reglas de tus mentores (con su nombre) para que las vean los usuarios del plan Avanzado. ||| Create your mentors' rules here (with their name) so Advanced plan users can see them. ||| Crie aqui as regras dos seus mentores (com o nome deles) para que os usuários do plano Avançado as vejam.
+▲ Alcista ||| ▲ Bullish ||| ▲ Altista
+▼ Bajista ||| ▼ Bearish ||| ▼ Baixista
+Mentor / fuente ||| Mentor / source ||| Mentor / fonte
+Español ||| Spanish ||| Espanhol
+Inglés ||| English ||| Inglês
+Descripción ||| Description ||| Descrição
+Se activa cuando se cumplen ||| Triggers when ||| Ativa quando
+todas ||| all ||| todas
+estas condiciones en la misma vela de {} min: ||| of these conditions are met on the same {}-min candle: ||| estas condições são cumpridas na mesma vela de {} min:
+Cruce de medias móviles ||| Moving average crossover ||| Cruzamento de médias móveis
+Precio vs media móvil ||| Price vs moving average ||| Preço vs média móvel
+Ruptura de máximo / mínimo ||| High / low breakout ||| Rompimento de máxima / mínima
+Color de la vela ||| Candle color ||| Cor da vela
+Velas seguidas del mismo color ||| Consecutive candles of the same color ||| Velas seguidas da mesma cor
+Volumen explosivo ||| Explosive volume ||| Volume explosivo
+Cambio de precio % ||| Price change % ||| Variação de preço %
+Color ||| Color ||| Cor
+Verde ||| Green ||| Verde
+Roja ||| Red ||| Vermelha
+Cuerpo mínimo % ||| Minimum body % ||| Corpo mínimo %
++ Condición ||| + Condition ||| + Condição
+Agregar al catálogo ||| Add to catalog ||| Adicionar ao catálogo
+Las señales se calculan con reglas objetivas sobre velas de {} minutos. Son contenido educativo, no recomendaciones. Las alertas por correo/Telegram quedan como siguiente paso. ||| Signals are calculated with objective rules on {}-minute candles. They are educational content, not recommendations. Email/Telegram alerts are a next step. ||| Os sinais são calculados com regras objetivas sobre velas de {} minutos. São conteúdo educativo, não recomendações. Os alertas por e-mail/Telegram ficam como próximo passo.
+Mi estrategia ||| My strategy ||| Minha estratégia
+Quitar condición ||| Remove condition ||| Remover condição
+Aún no sigues ninguna estrategia. Marca las que quieras abajo; verás aquí sus señales de un vistazo. ||| You're not following any strategy yet. Tick the ones you want below; you'll see their signals here at a glance. ||| Você ainda não segue nenhuma estratégia. Marque as que quiser abaixo; verá aqui os sinais delas num relance.
+Elige qué seguir ||| Choose what to follow ||| Escolha o que seguir
+Estrategias base ||| Base strategies ||| Estratégias base
+{} señal(es) ||| {} signal(s) ||| {} sinal(is)
+Mis estrategias guardadas ||| My saved strategies ||| Minhas estratégias salvas
+Nada por aquí todavía. ||| Nothing here yet. ||| Nada por aqui ainda.
+Crea tus propias estrategias en la pestaña “Mis estrategias” y aparecerán aquí para seguirlas. ||| Create your own strategies in the “My strategies” tab and they will appear here to follow. ||| Crie suas próprias estratégias na aba “Minhas estratégias” e elas aparecerão aqui para você segui-las.
+Aún no creas ninguna estrategia. ||| You haven't created any strategy yet. ||| Você ainda não criou nenhuma estratégia.
+Nueva estrategia personalizada ||| New custom strategy ||| Nova estratégia personalizada
+Guardar estrategia ||| Save strategy ||| Salvar estratégia
+Biblioteca de ||| Video ||| Biblioteca de
+videos ||| library ||| vídeos
+Del canal de YouTube de Options BB ||| From the Options BB YouTube channel ||| Do canal do YouTube da Options BB
+▶ Canal de YouTube ||| ▶ YouTube channel ||| ▶ Canal do YouTube
+◍ Sitio web ||| ◍ Website ||| ◍ Site
+Todas ||| All ||| Todas
+General ||| General ||| Geral
+Agregar video ||| Add video ||| Adicionar vídeo
+Enlace o ID de YouTube ||| YouTube link or ID ||| Link ou ID do YouTube
+Título ||| Title ||| Título
+(vacío = lo tomo de YouTube) ||| (empty = I take it from YouTube) ||| (vazio = pego do YouTube)
+Categoría ||| Category ||| Categoria
+Thinkorswim ||| Thinkorswim ||| Thinkorswim
+Opciones ||| Options ||| Opções
+Psicología ||| Psychology ||| Psicologia
+Disponible desde el plan ||| Available from plan ||| Disponível a partir do plano
+Descripción (opcional) ||| Description (optional) ||| Descrição (opcional)
+Para importar automáticamente los últimos videos del canal, define OBB_YT_CHANNEL_ID (empieza con “UC…”) y reinicia. ||| To automatically import the channel's latest videos, set OBB_YT_CHANNEL_ID (starts with “UC…”) and restart. ||| Para importar automaticamente os últimos vídeos do canal, defina OBB_YT_CHANNEL_ID (começa com “UC…”) e reinicie.
+Estrategia avanzada ||| Advanced strategy ||| Estratégia avançada
+General · Plan Avanzado+ ||| General · Advanced plan+ ||| Geral · Plano Avançado+
+Básico+ ||| Basic+ ||| Básico+
+Intermedio+ ||| Intermediate+ ||| Intermediário+
+Avanzado+ ||| Advanced+ ||| Avançado+
+Quitar ||| Remove ||| Remover
+Intro al Cover Call ||| Intro to Covered Calls ||| Introdução ao Covered Call
+Buscar video… ||| Search video… ||| Buscar vídeo…
+Planes de ||| Subscription ||| Planos de
+suscripción ||| plans ||| assinatura
+Acceso a las acciones del Centro de Comando y tu lista de seguimiento ||| Access to the Command Center stocks and your watchlist ||| Acesso às ações do Centro de Comando e à sua lista de acompanhamento
+{} estrategias: {} alcista y {} bajista ||| {} strategies: {} bullish and {} bearish ||| {} estratégias: {} altista e {} baixista
+Análisis de acciones por temporalidad ||| Stock analysis by timeframe ||| Análise de ações por temporalidade
+Módulo Cover Call (calculadora y simulador) ||| Covered Call module (calculator and simulator) ||| Módulo Covered Call (calculadora e simulador)
+Listas Optionsbb (poco, moderado y alto riesgo) y tu propio ETF ||| Optionsbb lists (low, moderate and high risk) and your own ETF ||| Listas Optionsbb (baixo, moderado e alto risco) e seu próprio ETF
+Ejemplos «¿Qué hubiera pasado si…?» ||| “What would have happened if…?” examples ||| Exemplos «O que teria acontecido se…?»
+Módulo {}(k) / retiro ||| {}(k) / retirement module ||| Módulo {}(k) / aposentadoria
+Biblioteca de videos (nivel básico) ||| Video library (basic level) ||| Biblioteca de vídeos (nível básico)
+alcista · ||| bullish · ||| altista ·
+Guardar precio ||| Save price ||| Salvar preço
+Todo lo del plan Básico ||| Everything in the Basic plan ||| Tudo do plano Básico
+{} estrategias alcistas y {} bajistas adicionales ({} + {} en total) ||| {} additional bullish and {} bearish strategies ({} + {} in total) ||| {} estratégias altistas e {} baixistas adicionais ({} + {} no total)
+Desempeño (reportes de backtesting) ||| Performance (backtesting reports) ||| Desempenho (relatórios de backtesting)
+Ranking de estrategias más efectivas ||| Ranking of the most effective strategies ||| Ranking das estratégias mais eficazes
+Cover Call y {}(k) ||| Covered Call and {}(k) ||| Covered Call e {}(k)
+Videos hasta nivel intermedio ||| Videos up to intermediate level ||| Vídeos até o nível intermediário
+alcistas · ||| bullish · ||| altistas ·
+bajistas ||| bearish ||| baixistas
+Todo lo de Básico e Intermedio ||| Everything in Basic and Intermediate ||| Tudo do Básico e Intermediário
+Flujo OI (volumen → open interest) ||| OI Flow (volume → open interest) ||| Fluxo OI (volume → open interest)
+Cover Call + acciones apalancadas (NVDL, AMDL…) ||| Covered Call + leveraged stocks (NVDL, AMDL…) ||| Covered Call + ações alavancadas (NVDL, AMDL…)
+Todas las estrategias ({} alcistas + {} bajistas) ||| All strategies ({} bullish + {} bearish) ||| Todas as estratégias ({} altistas + {} baixistas)
+{} estrategias personalizadas ||| {} custom strategies ||| {} estratégias personalizadas
+Alarmas y señales de estrategias de mentores (hispanos y americanos) ||| Alerts and signals from mentors' strategies (Hispanic and American) ||| Alarmes e sinais de estratégias de mentores (hispânicos e americanos)
+Toda la biblioteca de videos ||| The whole video library ||| Toda a biblioteca de vídeos
+bajistas · ||| bearish · ||| baixistas ·
+personalizadas ||| custom ||| personalizadas
+Estrategias alcistas ||| Bullish strategies ||| Estratégias altistas
+Estrategias bajistas ||| Bearish strategies ||| Estratégias baixistas
+Estrategias personalizadas ||| Custom strategies ||| Estratégias personalizadas
+Ej. {}/mes ||| E.g. {}/month ||| Ex.: {}/mês
+cuenta ||| account ||| conta
+Plan ||| Plan ||| Plano
+ADMINISTRADOR ||| ADMINISTRATOR ||| ADMINISTRADOR
+Admin ||| Admin ||| Admin
+Cerrar sesión ||| Sign out ||| Sair
+Estado del sistema ||| System status ||| Estado do sistema
+Datos ||| Data ||| Dados
+DEMO (simulados) ||| DEMO (simulated) ||| DEMO (simulados)
+Cerrado ||| Closed ||| Fechado
+Cotizaciones ||| Quotes ||| Cotações
+hace {} min ||| {} min ago ||| há {} min
+Errores ||| Errors ||| Erros
+ninguno ||| none ||| nenhum
+Conexión con Schwab ||| Schwab connection ||| Conexão com a Schwab
+SIN CREDENCIALES ||| NO CREDENTIALS ||| SEM CREDENCIAIS
+Define SCHWAB_APP_KEY y SCHWAB_APP_SECRET (developer.schwab.com) y reinicia el servidor. ||| Set SCHWAB_APP_KEY and SCHWAB_APP_SECRET (developer.schwab.com) and restart the server. ||| Defina SCHWAB_APP_KEY e SCHWAB_APP_SECRET (developer.schwab.com) e reinicie o servidor.
+Datos y listas ||| Data and lists ||| Dados e listas
+Fotos de open interest (se toman solas a las {}:{} am y {}:{} pm ET; aquí puedes forzarlas): ||| Open interest snapshots (taken automatically at {}:{} am and {}:{} pm ET; you can force them here): ||| Fotos de open interest (tiradas automaticamente às {}:{} e {}:{} ET; aqui você pode forçá-las):
+Foto de CIERRE (volumen) ahora ||| CLOSE snapshot (volume) now ||| Foto de FECHAMENTO (volume) agora
+Foto de MAÑANA (OI) ahora ||| MORNING snapshot (OI) now ||| Foto da MANHÃ (OI) agora
+Acciones por sector (Excel con columnas “Sector” y lista separada por comas): ||| Stocks by sector (Excel with columns “Sector” and a comma-separated list): ||| Ações por setor (Excel com colunas “Sector” e lista separada por vírgulas):
+Subir Excel ||| Upload Excel ||| Enviar Excel
+Registro ||| Registered ||| Registro
+Prueba ({} d) ||| Trial ({} d) ||| Teste ({} d)
+{} días pago ||| {} paid days ||| {} dias pagos
+{} prueba ||| {} trial ||| {} teste
+Revocar ||| Revoke ||| Revogar
+Hacer admin ||| Make admin ||| Tornar admin
+Quitar admin ||| Remove admin ||| Remover admin

@@ -1,0 +1,80 @@
+Lista no válida ||| Invalid list ||| Lista inválida
+Historia insuficiente de {*} ||| Not enough history for {*} ||| Histórico insuficiente de {*}
+ETF no existe ||| ETF doesn't exist ||| O ETF não existe
+No hay precios para este ETF ||| There are no prices for this ETF ||| Não há preços para este ETF
+Posiciones no válidas ||| Invalid positions ||| Posições inválidas
+{*} está repetida ||| {*} is duplicated ||| {*} está repetida
+No hay precio de {*} para convertir los dólares ||| There is no price for {*} to convert the dollars ||| Não há preço de {*} para converter os dólares
+Cantidad fuera de rango en {*} ||| Amount out of range for {*} ||| Quantidade fora da faixa em {*}
+Símbolo fuera de la lista ||| Symbol outside the list ||| Símbolo fora da lista
+Rango no válido ||| Invalid range ||| Faixa inválida
+No encontré precio para {*} ||| I couldn't find a price for {*} ||| Não encontrei preço para {*}
+Símbolo no válido ||| Invalid symbol ||| Símbolo inválido
+Indica un símbolo o un precio ||| Enter a symbol or a price ||| Informe um símbolo ou um preço
+Elige una estrategia (las patas libres son del plan Avanzado) ||| Choose a strategy (free legs are part of the Advanced plan) ||| Escolha uma estratégia (pernas livres são do plano Avançado)
+Correo no válido ||| Invalid email ||| E-mail inválido
+La contraseña debe tener al menos {} caracteres ||| The password must be at least {} characters ||| A senha deve ter pelo menos {} caracteres
+Ese correo ya está registrado ||| That email is already registered ||| Esse e-mail já está cadastrado
+Plan no válido ||| Invalid plan ||| Plano inválido
+Responde todas las preguntas ||| Answer all the questions ||| Responda todas as perguntas
+Máximo {} acciones en tu lista ||| Maximum {} stocks in your list ||| Máximo de {} ações na sua lista
+Estrategia no disponible en tu plan ||| Strategy not available in your plan ||| Estratégia não disponível no seu plano
+Estrategia no existe ||| Strategy doesn't exist ||| A estratégia não existe
+Máximo {} estrategias seguidas ||| Maximum {} followed strategies ||| Máximo de {} estratégias seguidas
+Acciones y costo deben ser números ||| Shares and cost must be numbers ||| Ações e custo devem ser números
+Acciones o costo fuera de rango ||| Shares or cost out of range ||| Ações ou custo fora da faixa
+Máximo {} posiciones ||| Maximum {} positions ||| Máximo de {} posições
+Máximo {} acciones por lista ||| Maximum {} stocks per list ||| Máximo de {} ações por lista
+Máximo {} ETF propios ||| Maximum {} own ETFs ||| Máximo de {} ETFs próprios
+Máximo {} acciones por ETF ||| Maximum {} stocks per ETF ||| Máximo de {} ações por ETF
+Cada ETF necesita al menos una acción ||| Each ETF needs at least one stock ||| Cada ETF precisa de pelo menos uma ação
+Acciones no válidas en {*} ||| Invalid stocks in {*} ||| Ações inválidas em {*}
+Acciones fuera de rango en {*} ||| Stocks out of range in {*} ||| Ações fora da faixa em {*}
+Plantilla desconocida ||| Unknown template ||| Modelo desconhecido
+Precio o volatilidad no válidos ||| Invalid price or volatility ||| Preço ou volatilidade inválidos
+Usa entre 1 y {} patas ||| Use between 1 and {} legs ||| Use entre 1 e {} pernas
+Pata no válida ||| Invalid leg ||| Perna inválida
+Cantidad no válida ||| Invalid quantity ||| Quantidade inválida
+Strike no válido ||| Invalid strike ||| Strike inválido
+Sin datos de opciones para ese vencimiento ||| No option data for that expiration ||| Sem dados de opções para esse vencimento
+No pude consultar el servicio de datos externo ({*}) ||| I couldn't reach the external data service ({*}) ||| Não consegui consultar o serviço de dados externo ({*})
+Falta la clave FINNHUB_API_KEY para traer las fechas de earnings (gratuita en finnhub.io). Configúrala en el servidor. ||| The FINNHUB_API_KEY is missing to fetch earnings dates (free at finnhub.io). Set it on the server. ||| Falta a chave FINNHUB_API_KEY para trazer as datas de earnings (gratuita em finnhub.io). Configure-a no servidor.
+Falta ALPHAVANTAGE_API_KEY para el historial de pagos (gratuita en alphavantage.co). ||| ALPHAVANTAGE_API_KEY is missing for the payment history (free at alphavantage.co). ||| Falta ALPHAVANTAGE_API_KEY para o histórico de pagamentos (gratuita em alphavantage.co).
+Se necesitan al menos {} precios ||| At least {} prices are needed ||| São necessários pelo menos {} preços
+Los precios deben ser positivos ||| Prices must be positive ||| Os preços devem ser positivos
+El % fuera del dinero debe estar entre {} y {} ||| The % out of the money must be between {} and {} ||| O % fora do dinheiro deve estar entre {} e {}
+Número de acciones fuera de rango ||| Number of shares out of range ||| Número de ações fora da faixa
+Historia insuficiente ||| Insufficient history ||| Histórico insuficiente
+Archivo demasiado grande ||| File too large ||| Arquivo grande demais
+Inicia sesión ||| Sign in ||| Faça login
+Tu prueba o suscripción no está activa ||| Your trial or subscription is not active ||| Seu teste ou assinatura não está ativo
+Solo administradores ||| Administrators only ||| Somente administradores
+Este módulo es del plan {*} o superior ||| This module is part of the {*} plan or higher ||| Este módulo é do plano {*} ou superior
+Ese módulo es de un plan superior ||| That module belongs to a higher plan ||| Esse módulo é de um plano superior
+Demasiados registros desde esta red. Intenta más tarde. ||| Too many sign-ups from this network. Try later. ||| Muitos cadastros desta rede. Tente mais tarde.
+Demasiados intentos. Espera {} minutos. ||| Too many attempts. Wait {} minutes. ||| Muitas tentativas. Aguarde {} minutos.
+Correo o contraseña incorrectos ||| Incorrect email or password ||| E-mail ou senha incorretos
+Reporte no existe ||| Report doesn't exist ||| O relatório não existe
+La simulación es demasiado grande ||| The simulation is too large ||| A simulação é grande demais
+Máximo {} simulaciones guardadas ||| Maximum {} saved simulations ||| Máximo de {} simulações salvas
+Máximo {} meses ||| Maximum {} months ||| Máximo de {} meses
+No pude obtener datos de {*}: {*} ||| I couldn't get data for {*}: {*} ||| Não consegui obter dados de {*}: {*}
+Temporalidad no válida ||| Invalid timeframe ||| Temporalidade inválida
+Sin conexión con el servidor ||| No connection to the server ||| Sem conexão com o servidor
+Error {} ||| Error {} ||| Erro {}
+Primero analiza la acción ||| Analyze the stock first ||| Primeiro analise a ação
+Revisa los datos ||| Check the data ||| Revise os dados
+Escribe un símbolo ||| Enter a symbol ||| Digite um símbolo
+Indica una cantidad mayor que 0 ||| Enter an amount greater than 0 ||| Informe uma quantidade maior que 0
+El monto mínimo es {} ||| The minimum amount is {} ||| O valor mínimo é {}
+Marca al menos una acción ||| Tick at least one stock ||| Marque pelo menos uma ação
+(mío) ||| (mine) ||| (meu)
+Listo: ya puedes modificar tu copia ||| Done: you can now edit your copy ||| Pronto: agora você pode modificar sua cópia
+Cantidad no válida ||| Invalid amount ||| Quantidade inválida
+Aún no tienes ||| You don't have any yet ||| Você ainda não tem
+Nombre del ETF ||| ETF name ||| Nome do ETF
+Cómo indicas la cantidad ||| How you enter the amount ||| Como você informa a quantidade
+Elige un ETF… ||| Choose an ETF… ||| Escolha um ETF…
+Acciones (una por línea: SÍMBOLO acciones) ||| Shares (one per line: SYMBOL shares) ||| Ações (uma por linha: SÍMBOLO ações)
+Ganancia o pérdida al vencimiento ||| Profit or loss at expiration ||| Ganho ou perda no vencimento
+Equilibrio ||| Breakeven ||| Equilíbrio

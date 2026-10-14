@@ -1,0 +1,242 @@
+Resumen y comportamiento por temporalidad ||| Summary and behavior by timeframe ||| Resumo e comportamento por temporalidade
+Cover Call con esta acción ||| Covered Call with this stock ||| Covered Call com esta ação
+Mín {} sem {} ||| {}-wk low {} ||| Mín {} sem {}
+Máx {} sem {} ||| {}-wk high {} ||| Máx {} sem {}
+Distancia al máximo ||| Distance from high ||| Distância da máxima
+Distancia al mínimo ||| Distance from low ||| Distância da mínima
+Volatilidad anual ||| Annual volatility ||| Volatilidade anual
+Mayor caída ({} año) ||| Largest drop ({} year) ||| Maior queda ({} ano)
+RSI ({} días) ||| RSI ({} days) ||| RSI ({} dias)
+sobrecomprada ||| overbought ||| sobrecomprada
+sobrevendida ||| oversold ||| sobrevendida
+neutral ||| neutral ||| neutra
+Tendencia (SMA {}/{}) ||| Trend (SMA {}/{}) ||| Tendência (SMA {}/{})
+ALCISTA ||| BULLISH ||| ALTISTA
+BAJISTA ||| BEARISH ||| BAIXISTA
+LATERAL ||| SIDEWAYS ||| LATERAL
+Volumen hoy vs promedio {} d ||| Volume today vs {}-d average ||| Volume hoje vs média de {} d
+Opciones: calls / puts ||| Options: calls / puts ||| Opções: calls / puts
+P/E, ganancias (EPS), dividendos y capitalización se añadirán al enlazar tu cuenta de Schwab. Hoy el resumen sale de precio, volumen y opciones. ||| P/E, earnings (EPS), dividends and market cap will be added when you link your Schwab account. Today the summary comes from price, volume and options. ||| P/E, lucros (EPS), dividendos e capitalização serão adicionados ao vincular sua conta Schwab. Hoje o resumo vem de preço, volume e opções.
+Temporalidad ||| Timeframe ||| Temporalidade
+Tendencia ||| Trend ||| Tendência
+Estrategias con mejor historial en esta acción ||| Strategies with the best track record on this stock ||| Estratégias com melhor histórico nesta ação
+{} min ||| {} min ||| {} min
+{} hora ||| {} hour ||| {} hora
+Diario ||| Daily ||| Diário
+Pocas señales en esta acción ||| Few signals on this stock ||| Poucos sinais nesta ação
+Resultado de cada señal = cambio del precio {} velas después, a favor de la señal. Es historia reciente (≈{} días en velas intradía y {} año en diario): sirve para comparar, no garantiza el futuro. ||| Result of each signal = price change {} candles later, in favor of the signal. It is recent history (≈{} days on intraday candles and {} year on daily): useful for comparing, it doesn't guarantee the future. ||| Resultado de cada sinal = variação do preço {} velas depois, a favor do sinal. É história recente (≈{} dias em velas intradiárias e {} ano no diário): serve para comparar, não garante o futuro.
+Últimos {} cierres ||| Last {} closes ||| Últimos {} fechamentos
+Posición dentro del rango de {} semanas ||| Position within the {}-week range ||| Posição dentro da faixa de {} semanas
+Cover ||| Covered ||| Covered
+Call ||| Call ||| Call
+Vende calls sobre las acciones que ya tienes ({} acciones = {} contrato) ||| Sell calls on the shares you already own ({} shares = {} contract) ||| Venda calls sobre as ações que você já tem ({} ações = {} contrato)
+Precio actual ||| Current price ||| Preço atual
+Tu costo por acción ||| Your cost per share ||| Seu custo por ação
+Acciones (múltiplos de {}) ||| Shares (multiples of {}) ||| Ações (múltiplos de {})
+Fecha de venta ||| Sale date ||| Data da venda
+Vencimiento ||| Expiration ||| Vencimento
+Comisión por contrato ($) ||| Commission per contract ($) ||| Comissão por contrato ($)
+Prima a cobrar ||| Premium to collect ||| Prêmio a receber
+Punto medio ||| Midpoint ||| Ponto médio
+Con cadena de opciones ||| With option chain ||| Com cadeia de opções
+Un strike a mano ||| A strike by hand ||| Um strike manual
+Pega la cadena (columnas: Strike, Bid, Ask, y opcional Delta, Volumen, OI) — solo la parte de CALLS del vencimiento elegido ||| Paste the chain (columns: Strike, Bid, Ask, and optionally Delta, Volume, OI) — only the CALLS part of the chosen expiration ||| Cole a cadeia (colunas: Strike, Bid, Ask e, opcionalmente, Delta, Volume, OI) — somente a parte de CALLS do vencimento escolhido
+Cargar ejemplo (NFLX) ||| Load example (NFLX) ||| Carregar exemplo (NFLX)
+¿Qué strike vender? ||| Which strike to sell? ||| Qual strike vender?
+(contando desde el primero sobre el precio) ||| (counting from the first one above the price) ||| (contando a partir do primeiro acima do preço)
+{}º (el inmediato) ||| {}st (the immediate one) ||| {}º (o imediato)
+{}º ||| {}th ||| {}º
+Prima por acción ||| Premium per share ||| Prêmio por ação
+Tip: en Thinkorswim abre Trade → cadena del vencimiento, selecciona las filas de Calls (Bid, Ask, Strike), cópialas y pégalas aquí. También puedes enviarme la captura y te transcribo la cadena. ||| Tip: in Thinkorswim open Trade → the expiration's chain, select the Calls rows (Bid, Ask, Strike), copy them and paste them here. You can also send me the screenshot and I'll transcribe the chain. ||| Dica: no Thinkorswim abra Trade → cadeia do vencimento, selecione as linhas de Calls (Bid, Ask, Strike), copie e cole aqui. Você também pode me enviar a captura e eu transcrevo a cadeia.
+Completa los datos y pulsa ||| Fill in the data and press ||| Preencha os dados e clique em
+igual al precio ||| equal to the price ||| igual ao preço
+Conservador: lo que realmente pagan al instante ||| Conservative: what they actually pay instantly ||| Conservador: o que realmente pagam na hora
+Punto medio entre bid y ask: lo habitual al poner una orden límite ||| Midpoint between bid and ask: the usual result with a limit order ||| Ponto médio entre bid e ask: o habitual ao colocar uma ordem limite
+Número de strike por encima del precio ||| Number of strikes above the price ||| Número do strike acima do preço
+{} · Parámetros de la simulación ||| {} · Simulation parameters ||| {} · Parâmetros da simulação
+Costo inicial por acción ||| Initial cost per share ||| Custo inicial por ação
+¿Por cuántos meses simular? ({}–{}) ||| For how many months to simulate? ({}–{}) ||| Por quantos meses simular? ({}–{})
+Primera venta ||| First sale ||| Primeira venda
+Strike a vender (regla por defecto) ||| Strike to sell (default rule) ||| Strike a vender (regra padrão)
+{}º (inmediato superior) ||| {}st (the next one above) ||| {}º (imediatamente superior)
+{}º sobre el precio ||| {}th above the price ||| {}º acima do preço
+Si te ejercen ||| If you get assigned ||| Se você for exercido
+Recomprar las {} acciones al precio del mes siguiente y seguir vendiendo ||| Rebuy the {} shares at next month's price and keep selling ||| Recomprar as {} ações ao preço do mês seguinte e continuar vendendo
+Crear los meses ||| Create the months ||| Criar os meses
+Después te pido, mes a mes, la cadena de opciones del vencimiento y (si quieres) el strike que vendiste. Con el precio al vencimiento sabremos si te ejercieron. ||| Then I ask you, month by month, for the expiration's option chain and (if you want) the strike you sold. With the price at expiration we'll know whether you were assigned. ||| Depois peço, mês a mês, a cadeia de opções do vencimento e (se quiser) o strike que você vendeu. Com o preço no vencimento saberemos se você foi exercido.
+= precio del mes {} ||| = price of month {} ||| = preço do mês {}
+Simulaciones guardadas ||| Saved simulations ||| Simulações salvas
+Aún no guardas ninguna. Crea una en “Simulador mensual”. ||| You haven't saved any yet. Create one in “Monthly simulator”. ||| Você ainda não salvou nenhuma. Crie uma em “Simulador mensal”.
+¿Qué hubiera ||| What would ||| O que teria
+pasado si…? ||| have happened if…? ||| acontecido se…?
+¿Qué hubiera pasado si…? ||| What would have happened if…? ||| O que teria acontecido se…?
+BYND: una acción que cae mes tras mes ||| BYND: a stock that falls month after month ||| BYND: uma ação que cai mês após mês
+MSFT: una gran empresa que se queda quieta o retrocede ||| MSFT: a large company that stays flat or pulls back ||| MSFT: uma grande empresa que fica parada ou recua
+Compras {} acciones cerca de {} y la acción pierde valor casi todos los meses. Esperar a que se «recupere» no pagó nada. Con cover call, cada mes cobras la prima de un call fuera del dinero y esa prima amortiza parte de la caída. ||| You buy {} shares near {} and the stock loses value almost every month. Waiting for it to «recover» paid nothing. With a covered call, each month you collect the premium of an out-of-the-money call and that premium offsets part of the drop. ||| Você compra {} ações perto de {} e a ação perde valor quase todo mês. Esperar que ela «se recupere» não pagou nada. Com covered call, todo mês você recebe o prêmio de uma call fora do dinheiro e esse prêmio amortece parte da queda.
+Call a % fuera del dinero ||| Call at % out of the money ||| Call a % fora do dinheiro
+Volatilidad anual % ||| Annual volatility % ||| Volatilidade anual %
+Precio al inicio de cada mes, separados por coma (el último es el precio final) ||| Price at the start of each month, comma-separated (the last one is the final price) ||| Preço no início de cada mês, separados por vírgula (o último é o preço final)
+Ejemplos ilustrativos con precios redondeados (no son históricos exactos): reemplázalos por los precios reales que quieras estudiar. ||| Illustrative examples with rounded prices (not exact historical): replace them with the real prices you want to study. ||| Exemplos ilustrativos com preços arredondados (não são históricos exatos): substitua pelos preços reais que quiser estudar.
+Resultado · BYND · {} mes(es) ||| Result · BYND · {} month(s) ||| Resultado · BYND · {} mês(es)
+Resultado · MSFT · {} mes(es) ||| Result · MSFT · {} month(s) ||| Resultado · MSFT · {} mês(es)
+{} de {} ||| {} of {} ||| {} de {}
+El cover call habría amortizado ||| The covered call would have offset ||| O covered call teria amortecido
+de la pérdida de las acciones ({} cobrados contra {} de caída). ||| of the loss on the shares ({} collected against {} of decline). ||| da perda das ações ({} recebidos contra {} de queda).
+M{} ||| M{} ||| M{}
+Solo las acciones · M{}: {} ||| Shares only · M{}: {} ||| Somente as ações · M{}: {}
+Acciones + cover call · M{}: {} ||| Shares + covered call · M{}: {} ||| Ações + covered call · M{}: {}
+Solo las acciones (acumulado) ||| Shares only (cumulative) ||| Somente as ações (acumulado)
+Acciones + cover call (acumulado) ||| Shares + covered call (cumulative) ||| Ações + covered call (acumulado)
+Primas estimadas con un modelo (Black-Scholes, volatilidad {}): úsalas para comparar, no como cotizaciones reales. Si te ejercen se asume que recompras al precio de vencimiento. Sin comisiones ni impuestos. Educativo, no es asesoría financiera. ||| Premiums estimated with a model (Black-Scholes, volatility {}): use them to compare, not as real quotes. If you are assigned, it is assumed you rebuy at the expiration price. No commissions or taxes. Educational, not financial advice. ||| Prêmios estimados com um modelo (Black-Scholes, volatilidade {}): use-os para comparar, não como cotações reais. Se for exercido, assume-se que você recompra ao preço de vencimento. Sem comissões nem impostos. Educativo, não é assessoria financeira.
+Evolución de la ganancia por mes ||| Gain evolution by month ||| Evolução do ganho por mês
+Últimos días ({}–{}) ||| Last days ({}–{}) ||| Últimos dias ({}–{})
+Volatilidad % (vacío = histórica) ||| Volatility % (empty = historical) ||| Volatilidade % (vazio = histórica)
+Usa el historial del símbolo en tu fuente de datos (con Schwab conectado, los precios reales; en DEMO son simulados). ||| Uses the symbol's history from your data source (with Schwab connected, real prices; in DEMO they are simulated). ||| Usa o histórico do símbolo na sua fonte de dados (com a Schwab conectada, preços reais; no DEMO são simulados).
+Apalancados ||| Leveraged ||| Alavancados
++ Cover Call ||| + Covered Call ||| + Covered Call
+NVDL, AMDL y otros instrumentos con cover call · nivel Avanzado ||| NVDL, AMDL and other instruments with covered calls · Advanced level ||| NVDL, AMDL e outros instrumentos com covered call · nível Avançado
+Los ETF apalancados ||| Leveraged ETFs ||| Os ETFs alavancados
+se reinician cada día ||| reset every day ||| reiniciam todo dia
+: si la acción base sube y baja, el apalancado pierde valor aunque la base quede igual (decadencia por volatilidad). ||| : if the underlying stock goes up and down, the leveraged product loses value even if the underlying ends unchanged (volatility decay). ||| : se a ação base sobe e desce, o alavancado perde valor mesmo que a base termine igual (decaimento por volatilidade).
+Pueden perder más de la mitad de su valor en pocas semanas. No son para dinero que necesites. ||| They can lose more than half their value in a few weeks. They are not for money you need. ||| Podem perder mais da metade do valor em poucas semanas. Não são para dinheiro de que você precisa.
+El cover call limita justo la subida que buscabas con un apalancado: cobras prima, pero renuncias a los movimientos fuertes. ||| A covered call caps exactly the upside you wanted from a leveraged product: you collect premium, but give up the strong moves. ||| O covered call limita justamente a alta que você buscava com um alavancado: você recebe prêmio, mas abre mão dos movimentos fortes.
+Sus opciones pueden tener spreads amplios y poca liquidez: revisa open interest y bid/ask. Necesitas {} acciones por contrato. ||| Their options can have wide spreads and low liquidity: check open interest and bid/ask. You need {} shares per contract. ||| As opções deles podem ter spreads amplos e pouca liquidez: confira open interest e bid/ask. Você precisa de {} ações por contrato.
+{}x NVIDIA ||| {}x NVIDIA ||| {}x NVIDIA
+{}x ||| {}x ||| {}x
+{}x AMD ||| {}x AMD ||| {}x AMD
+{}x Tesla ||| {}x Tesla ||| {}x Tesla
+{}x Coinbase ||| {}x Coinbase ||| {}x Coinbase
+{}x MicroStrategy ||| {}x MicroStrategy ||| {}x MicroStrategy
+{}x Palantir ||| {}x Palantir ||| {}x Palantir
+{}x semiconductores ||| {}x semiconductors ||| {}x semicondutores
+Lista de ejemplo editable en ||| Example list editable at ||| Lista de exemplo editável em
+. Verifica en tu broker que el instrumento exista y tenga opciones. ||| . Check with your broker that the instrument exists and has options. ||| . Verifique na sua corretora se o instrumento existe e tem opções.
+Como son más volátiles, las primas son más altas… y también la probabilidad de que te ejerzan. Prueba strikes más lejanos ({}–{} %). ||| Since they are more volatile, premiums are higher… and so is the chance of being assigned. Try farther strikes ({}–{} %). ||| Como são mais voláteis, os prêmios são mais altos… e também a probabilidade de ser exercido. Teste strikes mais distantes ({}–{} %).
+Apalancamiento (x) ||| Leverage (x) ||| Alavancagem (x)
+Volatilidad anual de la acción base % ||| Annual volatility of the underlying stock % ||| Volatilidade anual da ação base %
+Años ||| Years ||| Anos
+Con {}x y {} de volatilidad, en {} año(s) un apalancado perdería en teoría ||| With {}x and {} volatility, in {} year(s) a leveraged product would theoretically lose ||| Com {}x e {} de volatilidade, em {} ano(s) um alavancado perderia em teoria
+de su valor ||| of its value ||| do seu valor
+solo por la volatilidad ||| just from volatility ||| só pela volatilidade
+si la acción base termina igual que empezó. ||| if the underlying stock ends where it started. ||| se a ação base terminar igual ao que começou.
+Fórmula teórica: pérdida por volatilidad ≈ {} − e ||| Theoretical formula: volatility loss ≈ {} − e ||| Fórmula teórica: perda por volatilidade ≈ {} − e
+si la acción base termina sin cambio. Es una referencia, no una predicción. ||| if the underlying stock ends unchanged. It is a reference, not a prediction. ||| se a ação base terminar sem variação. É uma referência, não uma previsão.
+Mi ||| My ||| Meu
+Optionsbb ||| Optionsbb ||| Optionsbb
+Elige uno de los {} ETF de Optionsbb o arma el tuyo: pesos, cantidad de acciones y rendimiento con y sin cover call ||| Choose one of the {} Optionsbb ETFs or build your own: weights, share counts and performance with and without covered calls ||| Escolha um dos {} ETFs da Optionsbb ou monte o seu: pesos, quantidade de ações e rendimento com e sem covered call
+ETF Optionsbb ||| Optionsbb ETF ||| ETF Optionsbb
+Poco riesgo ||| Low risk ||| Baixo risco
+Riesgo moderado ||| Moderate risk ||| Risco moderado
+Alto riesgo ||| High risk ||| Alto risco
+Mis ETF ||| My ETFs ||| Meus ETFs
+ETF Optionsbb · Poco riesgo ||| Optionsbb ETF · Low risk ||| ETF Optionsbb · Baixo risco
+ETF Optionsbb · Riesgo moderado ||| Optionsbb ETF · Moderate risk ||| ETF Optionsbb · Risco moderado
+ETF Optionsbb · Alto riesgo ||| Optionsbb ETF · High risk ||| ETF Optionsbb · Alto risco
+Monto a invertir ($) ||| Amount to invest ($) ||| Valor a investir ($)
+Este ETF lo arma Optionsbb y no se modifica. Tú eliges cuánto invertir; las acciones se ajustan en la misma proporción. Para otra mezcla, crea tu propio ETF y agrégale acciones de este. ||| This ETF is built by Optionsbb and is not modified. You choose how much to invest; the shares adjust in the same proportion. For a different mix, create your own ETF and add shares from this one. ||| Este ETF é montado pela Optionsbb e não é modificado. Você escolhe quanto investir; as ações se ajustam na mesma proporção. Para outra mistura, crie seu próprio ETF e adicione ações deste.
+Crear mi ETF a partir de este ||| Create my ETF from this one ||| Criar meu ETF a partir deste
+Editar (administrador) ||| Edit (administrator) ||| Editar (administrador)
+En movimiento ▼ ||| Moving ▼ ||| Em movimento ▼
+En movimiento ▲ ||| Moving ▲ ||| Em movimento ▲
+Sin movimiento ||| Not moving ||| Sem movimento
+Faltan {} ||| {} short ||| Faltam {}
+En {} días, el cover call habría aportado ||| In {} days, the covered call would have contributed ||| Em {} dias, o covered call teria contribuído com
+a tu ETF ||| to your ETF ||| ao seu ETF
+({} en las acciones sin movimiento). Resultado total con cover call: ||| ({} on the stocks not moving). Total result with covered call: ||| ({} nas ações sem movimento). Resultado total com covered call:
+frente a ||| versus ||| contra
+solo con las acciones. ||| with the shares alone. ||| somente com as ações.
+Las primas son ||| Premiums are ||| Os prêmios são
+estimadas ||| estimated ||| estimados
+con un modelo (Black-Scholes con la volatilidad histórica de cada acción), vendiendo un call cada mes. Solo se cubren lotes de {} acciones; si te ejercen, se asume que recompras al precio de vencimiento. Es historia/simulación: no garantiza resultados futuros. En modo DEMO los precios son simulados. ||| with a model (Black-Scholes with each stock's historical volatility), selling one call each month. Only lots of {} shares are covered; if you are assigned, it is assumed you rebuy at the expiration price. It is history/simulation: it does not guarantee future results. In DEMO mode prices are simulated. ||| com um modelo (Black-Scholes com a volatilidade histórica de cada ação), vendendo uma call por mês. Só lotes de {} ações são cobertos; se você for exercido, assume-se que recompra ao preço de vencimento. É história/simulação: não garante resultados futuros. No modo DEMO os preços são simulados.
+Composición del ETF ||| ETF composition ||| Composição do ETF
+Composición ||| Composition ||| Composição
+auto ||| auto ||| auto
+Un contrato necesita {} acciones ||| One contract needs {} shares ||| Um contrato precisa de {} ações
+Se movió poco: el cover call rinde más cuando la acción se queda quieta ||| It moved little: a covered call earns more when the stock stays still ||| Mexeu pouco: o covered call rende mais quando a ação fica parada
+Qué acciones pagan, cuánto y cada cuánto ||| Which stocks pay, how much and how often ||| Quais ações pagam, quanto e com que frequência
+Dividendo + cover call = dos ingresos ||| Dividend + covered call = two incomes ||| Dividendo + covered call = duas rendas
+Con {} acciones cobras el dividendo y además puedes vender un call cada mes. Aquí ves el primer ingreso; en ||| With {} shares you collect the dividend and can also sell a call each month. Here you see the first income; in ||| Com {} ações você recebe o dividendo e ainda pode vender uma call por mês. Aqui você vê a primeira renda; em
+, el segundo. ||| , the second. ||| , a segunda.
+Acciones de tus listas ||| Stocks from your lists ||| Ações das suas listas
+Rendimiento anual ||| Annual yield ||| Rendimento anual
+Pago por acción ||| Payment per share ||| Pagamento por ação
+Frecuencia ||| Frequency ||| Frequência
+Ingreso anual con {} acciones ||| Annual income with {} shares ||| Renda anual com {} ações
+Trimestral ||| Quarterly ||| Trimestral
+Mensual ||| Monthly ||| Mensal
+Semestral ||| Semiannual ||| Semestral
+Anual ||| Annual ||| Anual
+No paga ||| Doesn't pay ||| Não paga
+Ingreso estimado con el último dividendo; las empresas pueden cambiarlo o suspenderlo. ||| Income estimated with the latest dividend; companies can change or suspend it. ||| Renda estimada com o último dividendo; as empresas podem alterá-lo ou suspendê-lo.
+Detalle de una acción ||| Detail of a stock ||| Detalhe de uma ação
+Buscar ||| Search ||| Buscar
+Rendimiento ||| Yield ||| Rendimento
+Pago ||| Payment ||| Pagamento
+Anual por acción ||| Annual per share ||| Anual por ação
+Crecimiento anual ||| Annual growth ||| Crescimento anual
+Próxima fecha ||| Next date ||| Próxima data
+Esta acción no tiene historial de dividendos. ||| This stock has no dividend history. ||| Esta ação não tem histórico de dividendos.
+{}(k) y ||| {}(k) and ||| {}(k) e
+retiro ||| retirement ||| aposentadoria
+Que tu dinero trabaje, no que se deprecie ||| Make your money work, not lose value ||| Faça seu dinheiro trabalhar, não se desvalorizar
+Saldo actual ($) ||| Current balance ($) ||| Saldo atual ($)
+Tu aporte mensual ($) ||| Your monthly contribution ($) ||| Seu aporte mensal ($)
+Años hasta el retiro ||| Years until retirement ||| Anos até a aposentadoria
+Salario anual ($) — opcional ||| Annual salary ($) — optional ||| Salário anual ($) — opcional
+La empresa aporta (% de lo que pones) ||| Employer contributes (% of what you put in) ||| A empresa contribui (% do que você coloca)
+hasta (% del salario) ||| up to (% of salary) ||| até (% do salário)
+Inflación anual % ||| Annual inflation % ||| Inflação anual %
+Interés del efectivo % ||| Cash interest % ||| Juros do dinheiro parado %
+Rendimiento de las acciones % ||| Stock return % ||| Rendimento das ações %
+Comisión anual % ||| Annual fee % ||| Taxa anual %
+Cover call: prima mensual % ||| Covered call: monthly premium % ||| Covered call: prêmio mensal %
+Cover call: subida que cedes (puntos %/año) ||| Covered call: upside you give up (% points/year) ||| Covered call: alta que você cede (pontos %/ano)
+% de la cartera con cover call ||| % of the portfolio with covered calls ||| % da carteira com covered call
+Los valores de cover call son ilustrativos: usa los de tu simulación en el módulo Cover Call. Si la prima no compensa lo que cedes, no suma. ||| The covered call values are illustrative: use those from your simulation in the Covered Call module. If the premium doesn't make up for what you give up, it doesn't add. ||| Os valores de covered call são ilustrativos: use os da sua simulação no módulo Covered Call. Se o prêmio não compensa o que você cede, não soma.
+El efectivo quieto se deprecia ||| Idle cash loses value ||| O dinheiro parado se desvaloriza
+Con {} de inflación, en ||| With {} inflation, in ||| Com {} de inflação, em
+{} años ||| {} years ||| {} anos
+tu efectivo pierde ||| your cash loses ||| seu dinheiro perde
+de poder de compra. De los {} que habrás puesto, el efectivo equivale a ||| of purchasing power. Of the {} you will have put in, the cash is equivalent to ||| de poder de compra. Dos {} que você terá colocado, o dinheiro equivale a
+de hoy. ||| in today's money. ||| de hoje.
+Resultado a {} años ||| Result at {} years ||| Resultado em {} anos
+Efectivo (sin invertir) · {}/año ||| Cash (not invested) · {}/year ||| Dinheiro (sem investir) · {}/ano
+Acciones · {}/año ||| Stocks · {}/year ||| Ações · {}/ano
+Acciones + Cover Call · {}/año ||| Stocks + Covered Call · {}/year ||| Ações + Covered Call · {}/ano
+A{} ||| Y{} ||| A{}
+Efectivo (sin invertir) · A{}: {} ||| Cash (not invested) · Y{}: {} ||| Dinheiro (sem investir) · A{}: {}
+Acciones · A{}: {} ||| Stocks · Y{}: {} ||| Ações · A{}: {}
+Acciones + Cover Call · A{}: {} ||| Stocks + Covered Call · Y{}: {} ||| Ações + Covered Call · A{}: {}
+Efectivo · ||| Cash · ||| Dinheiro ·
+Acciones · ||| Stocks · ||| Ações ·
+Acciones + Cover Call (retorno neto del cover call: {}/año con tus supuestos) ||| Stocks + Covered Call (net covered call return: {}/year with your assumptions) ||| Ações + Covered Call (retorno líquido do covered call: {}/ano com suas premissas)
+Simular un cover call real ||| Simulate a real covered call ||| Simular um covered call real
+Analizar una acción ||| Analyze a stock ||| Analisar uma ação
+Educativo, no es asesoría financiera ni fiscal. Los rendimientos son supuestos que tú editas, no promesas. Un {}(k) normal ofrece un menú fijo de fondos: las opciones (como el cover call) solo se pueden usar si tu plan tiene una ventana de corretaje y tu broker aprueba opciones; en una IRA es más común. Verifica con tu plan. ||| Educational, not financial or tax advice. Returns are assumptions you edit, not promises. A normal {}(k) offers a fixed menu of funds: options (like covered calls) can only be used if your plan has a brokerage window and your broker approves options; in an IRA it is more common. Check with your plan. ||| Educativo, não é assessoria financeira nem fiscal. Os rendimentos são premissas que você edita, não promessas. Um {}(k) normal oferece um menu fixo de fundos: opções (como covered call) só podem ser usadas se seu plano tem janela de corretagem e sua corretora aprova opções; numa IRA é mais comum. Verifique com seu plano.
+para calcular el aporte de la empresa ||| to calculate the employer contribution ||| para calcular o aporte da empresa
+¿Cuánto necesito ahorrar? ||| How much do I need to save? ||| Quanto preciso poupar?
+Ingreso mensual deseado (dólares de hoy) ||| Desired monthly income (today's dollars) ||| Renda mensal desejada (dólares de hoje)
+Años para retirarte ||| Years until you retire ||| Anos para se aposentar
+Retiro anual sostenible % ||| Sustainable annual withdrawal % ||| Retirada anual sustentável %
+Inflación % ||| Inflation % ||| Inflação %
+Rendimiento acciones % ||| Stock return % ||| Rendimento das ações %
+Interés efectivo % ||| Cash interest % ||| Juros do dinheiro %
+Comisión % ||| Fee % ||| Taxa %
+Con retiro de {} % anual, para {}/mes de hoy necesitas ≈ {} en dólares de hoy. Con inflación, en {} años serán ||| With a {} % annual withdrawal, for {}/month in today's money you need ≈ {} in today's dollars. With inflation, in {} years it will be ||| Com retirada de {} % ao ano, para {}/mês de hoje você precisa de ≈ {} em dólares de hoje. Com inflação, em {} anos serão
+futuros. ||| future dollars. ||| futuros.
+Aporte mensual si lo dejas en efectivo ({}) ||| Monthly contribution if you keep it in cash ({}) ||| Aporte mensal se você deixar em dinheiro ({})
+Aporte mensual invirtiendo en acciones ({}) ||| Monthly contribution investing in stocks ({}) ||| Aporte mensal investindo em ações ({})
+Invertir en vez de dejar el dinero quieto reduce lo que tienes que ahorrar cada mes en ||| Investing instead of leaving money idle reduces what you must save each month by ||| Investir em vez de deixar o dinheiro parado reduz o que você precisa poupar por mês em
+El costo de las comisiones ||| The cost of fees ||| O custo das taxas
+Aporte mensual ($) ||| Monthly contribution ($) ||| Aporte mensal ($)
+Rendimiento bruto % ||| Gross return % ||| Rendimento bruto %
+Comisión baja % ||| Low fee % ||| Taxa baixa %
+Comisión alta % ||| High fee % ||| Taxa alta %
+Muchos fondos de {}(k) cobran {} % o menos; otros cobran {} % o más. Revisa el “expense ratio” de tus fondos. ||| Many {}(k) funds charge {} % or less; others charge {} % or more. Check your funds' “expense ratio”. ||| Muitos fundos de {}(k) cobram {} % ou menos; outros cobram {} % ou mais. Confira o “expense ratio” dos seus fundos.
+Con {} de comisión ||| With {} fee ||| Com {} de taxa
+La diferencia es ||| The difference is ||| A diferença é
+({} de tu resultado final) por pagar más comisión. ||| ({} of your final result) for paying a higher fee. ||| ({} do seu resultado final) por pagar mais taxa.
+{}/{} posiciones ||| {}/{} positions ||| {}/{} posições
+Guardar posición ||| Save position ||| Salvar posição
+Agrega las acciones que tienes (o que quieres tener) para ver su valor y simular cover calls sobre ellas. ||| Add the stocks you own (or want to own) to see their value and simulate covered calls on them. ||| Adicione as ações que você tem (ou quer ter) para ver o valor e simular covered calls sobre elas.
+Costo por acción ||| Cost per share ||| Custo por ação

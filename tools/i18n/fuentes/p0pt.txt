@@ -1,0 +1,175 @@
+Inicio ||| Início
+Centro de Comando ||| Centro de Comando
+Análisis ||| Análise
+Ingresos ||| Renda
+Mi cartera ||| Minha carteira
+Mercado ||| Mercado
+Señales ||| Sinais
+Más ||| Mais
+Cover Call ||| Covered Call
+¿Qué hubiera pasado? ||| E se…?
+Apalancados + CC ||| Alavancados + CC
+Mi ETF ||| Meu ETF
+401(k) ||| 401(k)
+Flujo OI ||| Fluxo OI
+Sectores ||| Setores
+Ranking ||| Ranking
+Desempeño ||| Desempenho
+Videos ||| Vídeos
+Planes ||| Planos
+Manual ||| Manual
+Cuenta ||| Conta
+Contenido educativo, no es asesoría financiera. Operar acciones y opciones conlleva riesgo de pérdida. Los datos pueden tener retraso o ser simulados. ||| Conteúdo educativo, não é assessoria financeira. Operar ações e opções envolve risco de perda. Os dados podem ter atraso ou ser simulados.
+Datos simulados con fines demostrativos. ||| Dados simulados para fins demonstrativos.
+MODO DEMO — los datos de mercado son simulados. Conecta tu cuenta de Schwab en Cuenta → Conexión con Schwab para ver datos reales. ||| MODO DEMO — os dados de mercado são simulados. Conecte sua conta Schwab em Conta → Conexão com a Schwab para ver dados reais.
+Cargando… ||| Carregando…
+Calculando… ||| Calculando…
+Agregar ||| Adicionar
+Borrar ||| Apagar
+Calcular ||| Calcular
+Simular ||| Simular
+Analizar ||| Analisar
+Guardar ||| Salvar
+Entrar ||| Entrar
+Crear cuenta ||| Criar conta
+Nombre ||| Nome
+Correo ||| E-mail
+Símbolo ||| Símbolo
+Precio ||| Preço
+Hoy ||| Hoje
+Acciones ||| Ações
+Valor ||| Valor
+Mostrar: ||| Mostrar:
+7 días ||| 7 dias
+15 días ||| 15 dias
+30 días ||| 30 dias
+90 días ||| 90 dias
+180 días ||| 180 dias
+360 días ||| 360 dias
+Periodo ||| Período
+CENTRO DE COMANDO ||| CENTRO DE COMANDO
+ANALIZA · CREA · AUTOMATIZA · EJECUTA ||| ANALISE · CRIE · AUTOMATIZE · EXECUTE
+Estrategia alcista ||| Estratégia altista
+Estrategia bajista ||| Estratégia baixista
+Contratos con más volumen ||| Contratos com maior volume
+Mis listas de seguimiento ||| Minhas listas de acompanhamento
+Lista Optionsbb ||| Lista Optionsbb
+Lista Optionsbb · Poco riesgo ||| Lista Optionsbb · Baixo risco
+Lista Optionsbb · Riesgo moderado ||| Lista Optionsbb · Risco moderado
+Lista Optionsbb · Alto riesgo ||| Lista Optionsbb · Alto risco
+Copiar lista Optionsbb ||| Copiar lista Optionsbb
+Tu lista está vacía. Agrega acciones o copia la lista de Optionsbb para editarla. ||| Sua lista está vazia. Adicione ações ou copie a lista da Optionsbb para editá-la.
+Optionsbb · % de cambio ||| Optionsbb · % de variação
+Tus acciones nunca más permanecerán inactivas esperando que se revaloricen. ||| Suas ações nunca mais ficarão paradas esperando se valorizar.
+En Optionsbb te damos las estrategias adecuadas para generar ingresos pasivos: el cover call es una estrategia silenciosa que va generando ingresos en el tiempo. ||| Na Optionsbb damos a você as estratégias certas para gerar renda passiva: o covered call é uma estratégia silenciosa que vai gerando renda ao longo do tempo.
+Recuerda: para vender un call necesitas 100 acciones por cada contrato. ||| Lembre-se: para vender uma call você precisa de 100 ações por contrato.
+Arma tu propio ETF: elige las acciones, cuánto invertir en cada una y mira su peso y su rendimiento con y sin cover call ||| Monte seu próprio ETF: escolha as ações, quanto investir em cada uma e veja o peso e o rendimento com e sem covered call
++ Nuevo ETF ||| + Novo ETF
+Construye tu ETF ||| Monte seu ETF
+Composición ||| Composição
+Dólares ($) ||| Dólares ($)
+Cantidad ||| Quantidade
+Costo ref. ||| Custo ref.
+Rendimiento por acción: sola vs con cover call ||| Rendimento por ação: sozinha vs com covered call
+Acción ||| Ação
+Peso ||| Peso
+Estado ||| Estado
+Sin cover call ||| Sem covered call
+Cover call (ingreso) ||| Covered call (renda)
+Suma de las 2 ||| Soma das 2
+Contratos ||| Contratos
+Sin movimiento ||| Sem movimento
+En movimiento ||| Em movimento
+Total del ETF ||| Total do ETF
+Tu ETF está vacío. Agrega la primera acción. ||| Seu ETF está vazio. Adicione a primeira ação.
+Agrega acciones para ver cuánto habría rendido tu ETF con cover call. ||| Adicione ações para ver quanto seu ETF teria rendido com covered call.
+Agrega acciones para ver tu ETF. ||| Adicione ações para ver seu ETF.
+Mi ETF Optionsbb ||| Meu ETF Optionsbb
+Si indicas dólares, se convierten a acciones al precio actual. Máx. 20 acciones por ETF. ||| Se você informar dólares, eles são convertidos em ações ao preço atual. Máx. 20 ações por ETF.
+Call vendido a ||| Call vendida a
+% fuera del dinero, cada mes ||| % fora do dinheiro, todo mês
+Volatilidad (opcional) ||| Volatilidade (opcional)
+¿Qué hubiera pasado si…? ||| E se…? O que teria acontecido?
+Mira cuánto habría generado el cover call y cuánta pérdida habría amortizado ||| Veja quanto o covered call teria gerado e quanta perda teria amortecido
+Tu escenario ||| Seu cenário
+Mis precios ||| Meus preços
+Historial de un símbolo ||| Histórico de um símbolo
+Resultado ||| Resultado
+Solo las acciones ||| Somente as ações
+Primas cobradas (estimadas) ||| Prêmios recebidos (estimados)
+Resultado del cover call ||| Resultado do covered call
+Acciones + cover call ||| Ações + covered call
+Calls ejercidos ||| Calls exercidas
+Contratos (100 acc.) ||| Contratos (100 aç.)
+Mes ||| Mês
+Precio inicio ||| Preço inicial
+Strike vendido ||| Strike vendido
+Prima ||| Prêmio
+Precio al vencer ||| Preço no vencimento
+Call (mes) ||| Call (mês)
+Acumulado acciones ||| Acumulado ações
+Acumulado total ||| Acumulado total
+EJERCIDO ||| EXERCIDA
+PRIMA ✓ ||| PRÊMIO ✓
+Apalancados + Cover Call ||| Alavancados + Covered Call
+Instrumentos ||| Instrumentos
+Simula el cover call ||| Simule o covered call
+La decadencia de un apalancado ||| O decaimento de um alavancado
+⚠ Alto riesgo: léelo antes de usarlos ||| ⚠ Alto risco: leia antes de usá-los
+Simular cover call ||| Simular covered call
+Instrumento ||| Instrumento
+Base ||| Base
+Apalanc. ||| Alavanc.
+Cuéntanos cómo inviertes ||| Conte como você investe
+Ver mi ruta ||| Ver meu caminho
+Repetir cuestionario ||| Refazer questionário
+Tu ruta ||| Seu caminho
+Tu dinero no puede quedarse quieto ||| Seu dinheiro não pode ficar parado
+Calcular mi caso ||| Calcular meu caso
+Probar el simulador de Cover Call ||| Testar o simulador de Covered Call
+Proyección ||| Projeção
+Meta de retiro ||| Meta de aposentadoria
+Comisiones ||| Taxas
+Mi cartera  ||| Minha carteira
+Tus datos ||| Seus dados
+Supuestos (editables) ||| Premissas (editáveis)
+Dólares futuros ||| Dólares futuros
+Dólares de hoy (sin inflación) ||| Dólares de hoje (sem inflação)
+Análisis de acción ||| Análise de ação
+Resumen financiero ||| Resumo financeiro
+Por temporalidad ||| Por temporalidade
+Ver gráfico ||| Ver gráfico
++ Mi lista ||| + Minha lista
+Ranking de estrategias ||| Ranking de estratégias
+Activa ahora en ||| Ativa agora em
+Mejor historial en ||| Melhor histórico em
+Señales de mentores ||| Sinais de mentores
+Catálogo ||| Catálogo
+Mi selección ||| Minha seleção
+Mis estrategias ||| Minhas estratégias
+Calculadora ||| Calculadora
+Simulador mensual ||| Simulador mensal
+Guardadas ||| Salvas
+Datos de la operación ||| Dados da operação
+Estrategias ||| Estratégias
+Básico ||| Básico
+Intermedio ||| Intermediário
+Avanzado ||| Avançado
+Acciones clave ||| Ações-chave
+Clic en un símbolo para verlo en el gráfico ||| Clique em um símbolo para vê-lo no gráfico
+Señales  ||| Sinais
+Símbolo (ej. MSFT) ||| Símbolo (ex.: MSFT)
+Símbolo (ej. NVDA) ||| Símbolo (ex.: NVDA)
+Planes de suscripción ||| Planos de assinatura
+Consulta el precio ||| Consulte o preço
+Comparación ||| Comparação
+Mensual · cancela cuando quieras ||| Mensal · cancele quando quiser
+Para empezar con orden ||| Para começar com ordem
+Más estrategias, sectores y ranking ||| Mais estratégias, setores e ranking
+Todo, más tus propias estrategias ||| Tudo, mais suas próprias estratégias
+Suscribirme a Básico ||| Assinar o Básico
+Suscribirme a Intermedio ||| Assinar o Intermediário
+Suscribirme a Avanzado ||| Assinar o Avançado
+Plan de tu prueba ||| Plano do seu teste
+Biblioteca de videos ||| Biblioteca de vídeos
+Centro de Comando (acciones) ||| Centro de Comando (ações)

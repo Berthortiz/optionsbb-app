@@ -1,0 +1,277 @@
+Referidos ||| Referrals ||| Indicações
+Programa de ||| Referral ||| Programa de
+referidos ||| program ||| indicações
+Últimos 12 reportes: cómo se movió el precio y hacia dónde va la tendencia ||| Last 12 reports: how the price moved and where the trend is heading ||| Últimos 12 relatórios: como o preço se moveu e para onde vai a tendência
+Datos simulados (modo DEMO): las fechas, los movimientos y el EPS no son reales. ||| Simulated data (DEMO mode): dates, moves and EPS are not real. ||| Dados simulados (modo DEMO): as datas, os movimentos e o EPS não são reais.
+● Movimiento estable: ||| ● Stable movement: ||| ● Movimento estável:
+Más movimiento: ||| More movement: ||| Mais movimento:
+Más calma: ||| Calmer: ||| Mais calma:
+los últimos {} reportes movieron ±{}, similar a los {} anteriores (±{}). ||| the last {} reports moved ±{}, similar to the previous {} (±{}). ||| os últimos {} relatórios se moveram ±{}, parecido com os {} anteriores (±{}).
+los últimos {} reportes movieron ±{} en promedio, contra ±{} de los {} anteriores. ||| the last {} reports moved ±{} on average, versus ±{} for the previous {}. ||| os últimos {} relatórios se moveram ±{} em média, contra ±{} dos {} anteriores.
+Subió en el ||| It went up in ||| Subiu em
+de los reportes · racha actual: ||| of reports · current streak: ||| dos relatórios · sequência atual:
+{} al alza ||| {} up ||| {} de alta
+{} a la baja ||| {} down ||| {} de baixa
+Superó el estimado de ganancias en el ||| Beat the earnings estimate in ||| Superou a estimativa de lucros em
+de los reportes · reacción media si supera: ||| of reports · average reaction if it beats: ||| dos relatórios · reação média se supera:
+· si no supera: ||| · if it misses: ||| · se não supera:
+Movimiento en cada reporte ||| Move at each report ||| Movimento em cada relatório
+Día del reporte ||| Report day ||| Dia do relatório
+Gap de apertura ||| Opening gap ||| Gap de abertura
+Rango del día ||| Day range ||| Faixa do dia
+Movimiento ||| Move ||| Movimento
+EPS real / est. ||| EPS actual / est. ||| EPS real / est.
+La franja azul marca el movimiento típico (promedio de los {}). Pasa el cursor por una barra para ver la fecha. ||| The blue band marks the typical move (average of the {}). Hover over a bar to see the date. ||| A faixa azul marca o movimento típico (média dos {}). Passe o cursor sobre uma barra para ver a data.
+¿Se mueve más o menos con el tiempo? ||| Is it moving more or less over time? ||| Está se movendo mais ou menos com o tempo?
+Tamaño de cada reporte ||| Size of each report ||| Tamanho de cada relatório
+Promedio móvil ({}) ||| Moving average ({}) ||| Média móvel ({})
+Tendencia: ||| Trend: ||| Tendência:
+sube ||| rising ||| subindo
+baja ||| falling ||| caindo
+se mantiene ||| holding steady ||| estável
+Qué tan seguido ocurre cada movimiento ||| How often each move happens ||| Com que frequência ocorre cada movimento
+Cantidad de reportes en cada rango de movimiento del día. ||| Number of reports in each range of the day's move. ||| Quantidade de relatórios em cada faixa de movimento do dia.
+{} a {} ||| {} to {} ||| {} a {}
+Ganancias por acción (EPS): real contra estimado ||| Earnings per share (EPS): actual vs estimate ||| Lucro por ação (EPS): real contra estimado
+EPS estimado ||| Estimated EPS ||| EPS estimado
+Superó ||| Beat ||| Superou
+Quedó por debajo ||| Fell short ||| Ficou abaixo
+SUPERÓ ||| BEAT ||| SUPEROU
+POR DEBAJO ||| MISSED ||| ABAIXO
+Detalle de los {} reportes ||| Detail of the {} reports ||| Detalhe dos {} relatórios
+antes ||| before ||| antes
+después ||| after ||| depois
+±{} típico ||| ±{} typical ||| ±{} típico
+promedio {} ||| average {} ||| média {}
+{*} · estimado {} · real {} ({}) ||| {*} · estimated {} · actual {} ({}) ||| {*} · estimado {} · real {} ({})
+Movimiento en cada reporte ||| Move at each report ||| Movimento em cada relatório
+Tendencia del tamaño del movimiento ||| Trend in the size of the move ||| Tendência do tamanho do movimento
+EPS real contra estimado ||| Actual EPS vs estimate ||| EPS real contra estimado
+Cuánto cobrarías según tus acciones o tu inversión ||| How much you would collect based on your shares or your investment ||| Quanto você receberia conforme suas ações ou seu investimento
+Mi inversión ||| My investment ||| Meu investimento
+Número de acciones ||| Number of shares ||| Número de ações
+acciones de cada empresa ||| shares of each company ||| ações de cada empresa
+dólares en cada empresa ||| dollars in each company ||| dólares em cada empresa
+Solo las que pagan ||| Only those that pay ||| Somente as que pagam
+Total invertido ||| Total invested ||| Total investido
+Ingreso anual por dividendos ||| Annual dividend income ||| Renda anual com dividendos
+Ingreso mensual (promedio) ||| Monthly income (average) ||| Renda mensal (média)
+Rendimiento de tu inversión ||| Yield on your investment ||| Rendimento do seu investimento
+Inversión ||| Investment ||| Investimento
+Ingreso anual ||| Annual income ||| Renda anual
+Por mes ||| Per month ||| Por mês
+Toca una fila para verla en detalle. Ingreso estimado con el último dividendo; las empresas pueden cambiarlo o suspenderlo. ||| Tap a row to see it in detail. Income is estimated with the latest dividend; companies can change or suspend it. ||| Toque em uma linha para ver o detalhe. Renda estimada com o último dividendo; as empresas podem alterá-lo ou suspendê-lo.
+Cobras por pago ||| You collect per payment ||| Você recebe por pagamento
+Con menos de {} acciones no puedes vender un cover call. ||| With fewer than {} shares you cannot sell a covered call. ||| Com menos de {} ações você não pode vender um covered call.
+Con menos de {} acciones no puedes vender un cover call. Con {} llegas a {} ||| With fewer than {} shares you cannot sell a covered call. With {} you reach {} ||| Com menos de {} ações você não pode vender um covered call. Com {} você chega a {}
+Con {} contrato(s) de cover call podrías sumar un segundo ingreso mensual sobre estas mismas acciones. Míralo en ||| With {} covered call contract(s) you could add a second monthly income on these same shares. See it in ||| Com {} contrato(s) de covered call você poderia somar uma segunda renda mensal sobre essas mesmas ações. Veja em
+Calendario de pagos estimado ({} meses) ||| Estimated payment calendar ({} months) ||| Calendário de pagamentos estimado ({} meses)
+Proyección ||| Projection ||| Projeção
+Años: ||| Years: ||| Anos:
+Crecimiento anual del dividendo % ||| Annual dividend growth % ||| Crescimento anual do dividendo %
+Crecimiento anual del precio % ||| Annual price growth % ||| Crescimento anual do preço %
+Reinvertir los dividendos (compro más acciones con cada pago) ||| Reinvest dividends (buy more shares with each payment) ||| Reinvestir os dividendos (compro mais ações a cada pagamento)
+Cobrado en {} año(s) ||| Collected in {} year(s) ||| Recebido em {} ano(s)
+Ingreso anual al final (sin reinvertir) ||| Annual income at the end (not reinvesting) ||| Renda anual no final (sem reinvestir)
+Acciones al final (reinvirtiendo) ||| Shares at the end (reinvesting) ||| Ações no final (reinvestindo)
+Ingreso anual al final (reinvirtiendo) ||| Annual income at the end (reinvesting) ||| Renda anual no final (reinvestindo)
+Valor final (reinv.) + dividendos ||| Final value (reinv.) + dividends ||| Valor final (reinv.) + dividendos
+Dividendos cobrados acumulados ||| Cumulative dividends collected ||| Dividendos recebidos acumulados
+Valor de las acciones + dividendos (reinvirtiendo) ||| Value of shares + dividends (reinvesting) ||| Valor das ações + dividendos (reinvestindo)
+Proyección simple: usa el dividendo actual y los crecimientos que indiques. No es una promesa de rendimiento; las empresas pueden recortar o suspender el dividendo. Sin impuestos. ||| Simple projection: it uses the current dividend and the growth rates you enter. It is not a promise of returns; companies can cut or suspend the dividend. Before taxes. ||| Projeção simples: usa o dividendo atual e os crescimentos que você indicar. Não é uma promessa de rendimento; as empresas podem reduzir ou suspender o dividendo. Sem impostos.
+Historial de pagos ||| Payment history ||| Histórico de pagamentos
+año {} ||| year {} ||| ano {}
+Para vender un cover call necesitas {} acciones ||| To sell a covered call you need {} shares ||| Para vender um covered call você precisa de {} ações
+Proyección de dividendos ||| Dividend projection ||| Projeção de dividendos
+no paga dividendos. ||| does not pay dividends. ||| não paga dividendos.
+Elige un caso de la lista o arma el tuyo, y mira cuánto habría generado el cover call ||| Pick a case from the list or build your own, and see how much the covered call would have generated ||| Escolha um caso da lista ou monte o seu e veja quanto o covered call teria gerado
+Casos de estudio ||| Case studies ||| Estudos de caso
+Elige de la lista ||| Pick from the list ||| Escolha da lista
+— Elige un caso — ||| — Pick a case — ||| — Escolha um caso —
+Acción lateral: sube y baja sin ir a ningún lado ||| Sideways stock: it goes up and down but nowhere ||| Ação lateral: sobe e desce sem sair do lugar
+Empresa tranquila que paga dividendo (sube poco) ||| Calm dividend-paying company (rises a little) ||| Empresa tranquila que paga dividendo (sobe pouco)
+Caída fuerte y rebote (forma de V) ||| Sharp drop and rebound (V shape) ||| Queda forte e recuperação (formato de V)
+Crisis de mercado: -30 % y regreso al punto de partida ||| Market crisis: -30 % and back to the starting point ||| Crise de mercado: -30 % e volta ao ponto de partida
+Subida fuerte: el límite del cover call ||| Strong rally: the limit of the covered call ||| Alta forte: o limite do covered call
+Montaña rusa: sube y baja con fuerza ||| Roller coaster: it swings hard up and down ||| Montanha-russa: sobe e desce com força
+ETF apalancado 2x en un mercado de lado ||| 2x leveraged ETF in a sideways market ||| ETF alavancado 2x em um mercado lateral
+Todos ||| All ||| Todos
+Cae mes tras mes ||| Falls month after month ||| Cai mês após mês
+Lateral o retrocede ||| Sideways or pulls back ||| Lateral ou recua
+Cae y se recupera ||| Falls and recovers ||| Cai e se recupera
+Sube con fuerza ||| Rises strongly ||| Sobe com força
+Muy volátil ||| Very volatile ||| Muito volátil
+Mis casos ||| My cases ||| Meus casos
+{} meses · {*} · {} acc. · call {} · vol {} ||| {} months · {*} · {} sh. · call {} · vol {} ||| {} meses · {*} · {} aç. · call {} · vol {}
+{} meses · {*} · {} acc. · call {} · vol {} · ||| {} months · {*} · {} sh. · call {} · vol {} · ||| {} meses · {*} · {} aç. · call {} · vol {} ·
+mío ||| mine ||| meu
+Guardar este caso ||| Save this case ||| Salvar este caso
+Guardar en mis casos ||| Save to my cases ||| Salvar nos meus casos
+Guardar como caso de Optionsbb ||| Save as an Optionsbb case ||| Salvar como caso da Optionsbb
+Eliminar este caso ||| Delete this case ||| Excluir este caso
+Nombre del caso ||| Case name ||| Nome do caso
+Los casos son ilustrativos, con precios redondeados (no son históricos exactos): reemplázalos por los precios reales que quieras estudiar. ||| The cases are illustrative, with rounded prices (not exact historical data): replace them with the real prices you want to study. ||| Os casos são ilustrativos, com preços arredondados (não são históricos exatos): substitua-os pelos preços reais que quiser estudar.
+Aún no tienes casos guardados. Arma un escenario y pulsa «Guardar en mis casos». ||| You have no saved cases yet. Build a scenario and press «Save to my cases». ||| Você ainda não tem casos salvos. Monte um cenário e toque em «Salvar nos meus casos».
+Escribe un nombre para el caso. ||| Enter a name for the case. ||| Escreva um nome para o caso.
+Para guardar un caso usa «Mis precios» (puedes copiar los precios del historial). ||| To save a case use «My prices» (you can copy the prices from the history). ||| Para salvar um caso use «Meus preços» (você pode copiar os preços do histórico).
+Caso guardado en «Mis casos» ||| Case saved in «My cases» ||| Caso salvo em «Meus casos»
+Caso agregado para todos los usuarios ||| Case added for all users ||| Caso adicionado para todos os usuários
+Caso eliminado ||| Case deleted ||| Caso excluído
+Ponle un nombre al caso ||| Give the case a name ||| Dê um nome ao caso
+Escribe entre {} y {} precios ||| Enter between {} and {} prices ||| Escreva entre {} e {} preços
+Puedes guardar hasta {} casos. Elimina alguno para guardar otro. ||| You can save up to {} cases. Delete one to save another. ||| Você pode salvar até {} casos. Exclua um para salvar outro.
+BYND: una acción que cae mes tras mes ||| BYND: a stock that falls month after month ||| BYND: uma ação que cai mês após mês
+Compras 100 acciones de una empresa sólida y el precio se mueve de lado o baja un poco durante el año. Sin cover call tus acciones esperan inactivas; con cover call generan un ingreso mensual mientras esperas. ||| You buy 100 shares of a solid company and the price moves sideways or drops a little during the year. Without a covered call your shares wait idle; with a covered call they generate monthly income while you wait. ||| Você compra 100 ações de uma empresa sólida e o preço anda de lado ou cai um pouco durante o ano. Sem covered call suas ações esperam paradas; com covered call elas geram uma renda mensal enquanto você espera.
+El precio da vueltas alrededor de $100 durante un año. Quien solo tiene las acciones termina casi igual; quien vende un call cada mes cobra una prima en cada ciclo. Es el escenario donde el cover call brilla. ||| The price circles around $100 for a year. Whoever only holds the shares ends up about the same; whoever sells a call each month collects a premium every cycle. This is the scenario where the covered call shines. ||| O preço gira em torno de $100 durante um ano. Quem só tem as ações termina quase igual; quem vende um call a cada mês recebe um prêmio em cada ciclo. É o cenário onde o covered call brilha.
+Una acción estable que sube apenas un 4 % en el año. Se vende un call poco volátil: la prima es pequeña, pero constante, y se suma al dividendo. ||| A stable stock that rises only 4 % in the year. A low-volatility call is sold: the premium is small but steady, and adds to the dividend. ||| Uma ação estável que sobe apenas 4 % no ano. Vende-se um call pouco volátil: o prêmio é pequeno, mas constante, e se soma ao dividendo.
+La acción cae un 35 % en cuatro meses y luego se recupera. Las primas más altas durante la caída amortiguan la pérdida; en el rebote, el call limita parte de la subida. ||| The stock falls 35 % in four months and then recovers. The higher premiums during the drop cushion the loss; in the rebound, the call caps part of the rise. ||| A ação cai 35 % em quatro meses e depois se recupera. Os prêmios mais altos durante a queda amortecem a perda; na recuperação, o call limita parte da alta.
+Un año de miedo: el precio se desploma y tarda meses en volver. Las acciones solas parecen «empatar» al final, pero durante el camino el cover call fue cobrando primas. ||| A year of fear: the price collapses and takes months to come back. The shares alone seem to «break even» at the end, but along the way the covered call kept collecting premiums. ||| Um ano de medo: o preço despenca e demora meses para voltar. As ações sozinhas parecem «empatar» no final, mas pelo caminho o covered call foi recebendo prêmios.
+La acción sube un 60 % en el año. Aquí el cover call cobra primas pero limita la ganancia cuando te ejercen: es el costo de la estrategia, y conviene verlo antes de usarla. ||| The stock rises 60 % in the year. Here the covered call collects premiums but caps the gain when you are assigned: it is the cost of the strategy, and it is worth seeing before using it. ||| A ação sobe 60 % no ano. Aqui o covered call recebe prêmios, mas limita o ganho quando você é exercido: é o custo da estratégia e vale a pena ver antes de usá-la.
+Cambios de ±15 % cada mes. La volatilidad alta paga primas altas, pero también te ejercen o pierdes con más frecuencia. Mira cuánto compensa. ||| Moves of ±15 % each month. High volatility pays high premiums, but you are also assigned or lose more often. See how much it makes up for. ||| Variações de ±15 % a cada mês. A volatilidade alta paga prêmios altos, mas você também é exercido ou perde com mais frequência. Veja quanto compensa.
+Un ETF apalancado pierde valor por decadencia aunque el activo base termine igual. Con cover call se cobran primas muy altas que compensan parte de esa pérdida (ver el módulo Apalancados + CC). ||| A leveraged ETF loses value through decay even if the underlying ends the same. With a covered call, very high premiums are collected that offset part of that loss (see the Leveraged + CC module). ||| Um ETF alavancado perde valor por decaimento mesmo que o ativo base termine igual. Com covered call recebem-se prêmios muito altos que compensam parte dessa perda (veja o módulo Alavancados + CC).
+Quitar ||| Remove ||| Remover
+Quitar {*} ||| Remove {*} ||| Remover {*}
+Agregar símbolo a {*} ||| Add symbol to {*} ||| Adicionar símbolo a {*}
++ Agregar ||| + Add ||| + Adicionar
+Eliminar sector ||| Delete sector ||| Excluir setor
+Nuevo sector (administrador) ||| New sector (administrator) ||| Novo setor (administrador)
+Crear sector ||| Create sector ||| Criar setor
+Nombre del sector ||| Sector name ||| Nome do setor
+Primera acción ||| First stock ||| Primeira ação
+Acción quitada ||| Stock removed ||| Ação removida
+Acción agregada ||| Stock added ||| Ação adicionada
+Sector creado ||| Sector created ||| Setor criado
+Sector eliminado ||| Sector deleted ||| Setor excluído
+Escribe un sector y un símbolo válido ||| Enter a sector and a valid symbol ||| Escreva um setor e um símbolo válido
+Plantillas rápidas ||| Quick templates ||| Modelos rápidos
+Elige un indicador para cargarlo… ||| Pick an indicator to load it… ||| Escolha um indicador para carregá-lo…
+Cruz dorada (SMA {} sobre SMA {}) ||| Golden cross (SMA {} above SMA {}) ||| Cruz dourada (SMA {} acima da SMA {})
+Cruz de la muerte (SMA {} bajo SMA {}) ||| Death cross (SMA {} below SMA {}) ||| Cruz da morte (SMA {} abaixo da SMA {})
+Breakout alcista con volumen ||| Bullish breakout with volume ||| Breakout de alta com volume
+Breakout bajista con volumen ||| Bearish breakout with volume ||| Breakout de baixa com volume
+Doji tras caída (posible giro) ||| Doji after a drop (possible reversal) ||| Doji após queda (possível reversão)
+Envolvente alcista tras caída ||| Bullish engulfing after a drop ||| Engolfo de alta após queda
+Envolvente bajista tras alza ||| Bearish engulfing after a rise ||| Engolfo de baixa após alta
+Breakout alcista / bajista (ruptura) ||| Bullish / bearish breakout ||| Breakout de alta / baixa (rompimento)
+Cruz dorada / cruz de la muerte ||| Golden cross / death cross ||| Cruz dourada / cruz da morte
+Vela doji ||| Doji candle ||| Vela doji
+Vela envolvente ||| Engulfing candle ||| Vela engolfo
+Verdes ||| Green ||| Verdes
+Rojas ||| Red ||| Vermelhas
+Cuerpo máximo % del rango ||| Maximum body % of range ||| Corpo máximo % da faixa
+Doji ||| Doji ||| Doji
+Doji libélula (mecha abajo) ||| Dragonfly doji (wick below) ||| Doji libélula (pavio embaixo)
+Doji lápida (mecha arriba) ||| Gravestone doji (wick above) ||| Doji lápide (pavio em cima)
+Volumen mínimo (× promedio, 0 = no exigir) ||| Minimum volume (× average, 0 = not required) ||| Volume mínimo (× média, 0 = não exigir)
+Alcista: rompe el máximo ||| Bullish: breaks the high ||| Alta: rompe a máxima
+Bajista: rompe el mínimo ||| Bearish: breaks the low ||| Baixa: rompe a mínima
+Rápida ||| Fast ||| Rápida
+Lenta ||| Slow ||| Lenta
+Cruce ||| Crossover ||| Cruzamento
+Cruz dorada (alcista) ||| Golden cross (bullish) ||| Cruz dourada (alta)
+Cruz de la muerte (bajista) ||| Death cross (bearish) ||| Cruz da morte (baixa)
+Tipo ||| Type ||| Tipo
+Envolvente alcista ||| Bullish engulfing ||| Engolfo de alta
+Envolvente bajista ||| Bearish engulfing ||| Engolfo de baixa
+Tendencia previa en velas (0 = no exigir) ||| Prior trend in candles (0 = not required) ||| Tendência prévia em velas (0 = não exigir)
+Breakout alcista: cierre rompe el máximo de {} velas ||| Bullish breakout: close breaks the high of {} candles ||| Breakout de alta: fechamento rompe a máxima de {} velas
+Breakout bajista: cierre rompe el mínimo de {} velas ||| Bearish breakout: close breaks the low of {} candles ||| Breakout de baixa: fechamento rompe a mínima de {} velas
+Breakout alcista: cierre rompe el máximo de {} velas con volumen ≥ {}× el promedio ||| Bullish breakout: close breaks the high of {} candles with volume ≥ {}× the average ||| Breakout de alta: fechamento rompe a máxima de {} velas com volume ≥ {}× a média
+Breakout bajista: cierre rompe el mínimo de {} velas con volumen ≥ {}× el promedio ||| Bearish breakout: close breaks the low of {} candles with volume ≥ {}× the average ||| Breakout de baixa: fechamento rompe a mínima de {} velas com volume ≥ {}× a média
+Cruz dorada: SMA {} cruza sobre la SMA {} ||| Golden cross: SMA {} crosses above SMA {} ||| Cruz dourada: SMA {} cruza acima da SMA {}
+Cruz de la muerte: SMA {} cruza bajo la SMA {} ||| Death cross: SMA {} crosses below SMA {} ||| Cruz da morte: SMA {} cruza abaixo da SMA {}
+Doji (cuerpo ≤ {} del rango) ||| Doji (body ≤ {} of range) ||| Doji (corpo ≤ {} da faixa)
+Doji libélula (cuerpo ≤ {} del rango) ||| Dragonfly doji (body ≤ {} of range) ||| Doji libélula (corpo ≤ {} da faixa)
+Doji lápida (cuerpo ≤ {} del rango) ||| Gravestone doji (body ≤ {} of range) ||| Doji lápide (corpo ≤ {} da faixa)
+Vela envolvente alcista ||| Bullish engulfing candle ||| Vela engolfo de alta
+Vela envolvente bajista ||| Bearish engulfing candle ||| Vela engolfo de baixa
+Vela envolvente alcista tras {} velas en baja ||| Bullish engulfing candle after {} falling candles ||| Vela engolfo de alta após {} velas em queda
+Vela envolvente bajista tras {} velas en alza ||| Bearish engulfing candle after {} rising candles ||| Vela engolfo de baixa após {} velas em alta
+Tu enlace para invitar ||| Your invite link ||| Seu link para convidar
+Cuando alguien se registre con tu enlace y ||| When someone signs up with your link and ||| Quando alguém se cadastrar com seu link e
+pague su suscripción ||| pays for their subscription ||| pagar a assinatura
+, cuenta como referido tuyo. Tomar la prueba gratis no cuenta todavía. ||| , they count as your referral. Taking the free trial does not count yet. ||| , conta como sua indicação. Fazer o teste grátis ainda não conta.
+Copiar enlace ||| Copy link ||| Copiar link
+O dale tu código: ||| Or give them your code: ||| Ou passe seu código:
+Copiar código ||| Copy code ||| Copiar código
+Tu progreso ||| Your progress ||| Seu progresso
+Se registraron ||| Signed up ||| Se cadastraram
+Ya se suscribieron ||| Already subscribed ||| Já assinaram
+Descuentos por usar ||| Discounts to use ||| Descontos a usar
+Faltan para {} meses gratis ||| To go for {} free months ||| Faltam para {} meses grátis
+¡Todas logradas! ||| All achieved! ||| Todas alcançadas!
+Metas ||| Goals ||| Metas
+{} referido ||| {} referral ||| {} indicação
+{} referidos ||| {} referrals ||| {} indicações
+{} de descuento por cada referido ||| {} discount for each referral ||| {} de desconto por cada indicação
+{} meses gratis · plan Avanzado ||| {} free months · Advanced plan ||| {} meses grátis · plano Avançado
+Por ||| For ||| Por
+cada ||| each ||| cada
+referido que se suscribe: ||| referral who subscribes: ||| indicação que assina:
+{} de descuento ||| {} discount ||| {} de desconto
+en tu siguiente mes. Si ganas varios, se aplican uno por mes. ||| on your next month. If you earn several, they apply one per month. ||| no seu próximo mês. Se ganhar vários, são aplicados um por mês.
+Al llegar a ||| On reaching ||| Ao chegar a
+{} meses completamente gratis ||| {} months completely free ||| {} meses completamente grátis
+de la suscripción nivel Avanzado. ||| of the Advanced-level subscription. ||| da assinatura nível Avançado.
+Los premios por metas se suman: llegar a la siguiente no borra el anterior. ||| Goal rewards add up: reaching the next one does not erase the previous one. ||| Os prêmios por metas se somam: chegar à próxima não apaga a anterior.
+Tus referidos ||| Your referrals ||| Suas indicações
+Persona ||| Person ||| Pessoa
+Desde ||| Since ||| Desde
+SE SUSCRIBIÓ ||| SUBSCRIBED ||| ASSINOU
+EN PRUEBA ||| ON TRIAL ||| EM TESTE
+Tus premios ||| Your rewards ||| Seus prêmios
+Premio ||| Reward ||| Prêmio
+En cola ||| Queued ||| Na fila
+Se aplicará en tu próximo cobro ||| Will apply on your next charge ||| Será aplicado na sua próxima cobrança
+Usado ||| Used ||| Usado
+Activo ||| Active ||| Ativo
+{} de descuento por cada referido ||| {} discount for each referral ||| {} de desconto por cada indicação
+🎁 {} meses gratis ({} referidos) ||| 🎁 {} free months ({} referrals) ||| 🎁 {} meses grátis ({} indicações)
+Aún nadie se registró con tu enlace. Compártelo en tu canal de YouTube, tus redes o por mensaje. ||| Nobody has signed up with your link yet. Share it on your YouTube channel, your social media or by message. ||| Ninguém se cadastrou com seu link ainda. Compartilhe no seu canal do YouTube, nas redes ou por mensagem.
+Tus premios aparecerán aquí. ||| Your rewards will appear here. ||| Seus prêmios aparecerão aqui.
+¿Alguien te invitó? ||| Did someone invite you? ||| Alguém convidou você?
+Agregar código ||| Add code ||| Adicionar código
+Código de quien te invitó ||| Code of whoever invited you ||| Código de quem convidou você
+Código de referido (opcional) ||| Referral code (optional) ||| Código de indicação (opcional)
+Código de referido ||| Referral code ||| Código de indicação
+Tu enlace de referido ||| Your referral link ||| Seu link de indicação
+Solo puedes agregarlo antes de suscribirte. ||| You can only add it before subscribing. ||| Você só pode adicioná-lo antes de assinar.
+🎁 Tienes ||| 🎁 You have ||| 🎁 Você tem
+plan Avanzado gratis ||| the Advanced plan for free ||| plano Avançado grátis
+hasta el ||| until ||| até
+, ganado con tus referidos. ||| , earned with your referrals. ||| , ganho com suas indicações.
+Administrador · reglas del programa ||| Administrator · program rules ||| Administrador · regras do programa
+Descuento por referido (%) ||| Discount per referral (%) ||| Desconto por indicação (%)
+Meta {}: referidos ||| Goal {}: referrals ||| Meta {}: indicações
+Meta {}: meses gratis ||| Goal {}: free months ||| Meta {}: meses grátis
+Guardar reglas ||| Save rules ||| Salvar regras
+Los cambios aplican a referidos futuros. ||| Changes apply to future referrals. ||| As mudanças valem para indicações futuras.
+Administrador · referidos en prueba (aún no pagan) ||| Administrator · referrals on trial (not paying yet) ||| Administrador · indicações em teste (ainda não pagam)
+Invitado ||| Invited ||| Convidado
+Lo invitó ||| Invited by ||| Convidado por
+Marcar como pagado ||| Mark as paid ||| Marcar como pago
+Con Stripe activo esto es automático al primer pago. «Marcar como pagado» sirve para cobros fuera de Stripe o para pruebas. ||| With Stripe active this is automatic on the first payment. «Mark as paid» is for charges outside Stripe or for testing. ||| Com o Stripe ativo isto é automático no primeiro pagamento. «Marcar como pago» serve para cobranças fora do Stripe ou para testes.
+No hay referidos pendientes. ||| There are no pending referrals. ||| Não há indicações pendentes.
+Administrador · premios por aplicar a mano ||| Administrator · rewards to apply by hand ||| Administrador · prêmios a aplicar manualmente
+Nota ||| Note ||| Nota
+Ya lo apliqué ||| I applied it ||| Já apliquei
+Nada pendiente. ||| Nothing pending. ||| Nada pendente.
+Administrador · quienes más refieren ||| Administrator · top referrers ||| Administrador · quem mais indica
+Usuario ||| User ||| Usuário
+Registrados ||| Signed up ||| Cadastrados
+Suscritos ||| Subscribed ||| Assinantes
+Todavía no hay referidos. ||| There are no referrals yet. ||| Ainda não há indicações.
+Reglas guardadas ||| Rules saved ||| Regras salvas
+Referido confirmado ||| Referral confirmed ||| Indicação confirmada
+Código agregado ||| Code added ||| Código adicionado
+Copiado ||| Copied ||| Copiado
+Selecciona el texto y cópialo ||| Select the text and copy it ||| Selecione o texto e copie
+{} meses gratis ||| {} free months ||| {} meses grátis
+Ese código no es válido ||| That code is not valid ||| Esse código não é válido
+Ya tienes un código de referido registrado ||| You already have a referral code registered ||| Você já tem um código de indicação registrado
+Solo puedes agregar un código antes de suscribirte ||| You can only add a code before subscribing ||| Você só pode adicionar um código antes de assinar
+Ese usuario no tiene un referido pendiente ||| That user has no pending referral ||| Esse usuário não tem indicação pendente
+REGALO POR REFERIDOS · {} día(s) ||| GIFT FROM REFERRALS · {} day(s) ||| PRESENTE POR INDICAÇÕES · {} dia(s)
+Regalo ({} d) ||| Gift ({} d) ||| Presente ({} d)
+ · regalo {} día(s) ||| · gift {} day(s) ||| · presente {} dia(s)
+El movimiento se mide contra el cierre previo a la reacción (si reporta después del cierre, la reacción es el día siguiente). Las fechas vienen de Finnhub y los precios de Schwab; no hay captura manual. Es un historial: no predice el próximo reporte. ||| The move is measured against the close before the reaction (if the company reports after the close, the reaction is the next day). Dates come from Finnhub and prices from Schwab; nothing is entered by hand. It is a history: it does not predict the next report. ||| O movimento é medido contra o fechamento anterior à reação (se reporta após o fechamento, a reação é no dia seguinte). As datas vêm do Finnhub e os preços da Schwab; não há digitação manual. É um histórico: não prevê o próximo relatório.

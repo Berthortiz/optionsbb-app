@@ -1,0 +1,5 @@
+Tres listas de Optionsbb (poco riesgo, riesgo moderado y alto riesgo) y tus propias listas, con el % de cambio de hoy, {} {} {} {} y {} días. ||| Three Optionsbb lists (low risk, moderate risk and high risk) and your own lists, with today's % change, {} {} {} {} and {} days. ||| Três listas da Optionsbb (baixo risco, risco moderado e alto risco) e suas próprias listas, com a variação % de hoje, {} {} {} {} e {} dias.
+{*} · señal {}:{} ET ||| {*} · signal {}:{} ET ||| {*} · sinal {}:{} ET
+a tu ETF ({} en las acciones sin movimiento). Resultado total con cover call: ||| to your ETF ({} on the stocks not moving). Total result with covered call: ||| ao seu ETF ({} nas ações sem movimento). Resultado total com covered call:
+El cobro automático aún no está activado: escribe a jroa@optionsbb.com para activar tu plan. ||| Automatic billing is not enabled yet: write to jroa@optionsbb.com to activate your plan. ||| A cobrança automática ainda não está ativada: escreva para jroa@optionsbb.com para ativar seu plano.
+Vence {*} · OI {} · Vol/OI {} ||| Expires {*} · OI {} · Vol/OI {} ||| Vence {*} · OI {} · Vol/OI {}

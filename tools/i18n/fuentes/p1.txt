@@ -1,0 +1,169 @@
+Contraseña ||| Password ||| Senha
+Prueba gratis de ||| Free trial of ||| Teste grátis de
+, sin tarjeta. Después continúas con la suscripción mensual. ||| , no card needed. Then you continue with the monthly subscription. ||| , sem cartão. Depois você continua com a assinatura mensal.
+{}{} estrategias ||| {}{} strategies ||| {}{} estratégias
+{}{} estrategias · {} propias ||| {}{} strategies · {} of your own ||| {}{} estratégias · {} próprias
+Contraseña (mínimo {} caracteres) ||| Password (minimum {} characters) ||| Senha (mínimo {} caracteres)
+Empezar mis {} días gratis ||| Start my {} free days ||| Começar meus {} dias grátis
+Plan de prueba ||| Trial plan ||| Plano de teste
+Mis listas ||| My lists ||| Minhas listas
+Dividendos ||| Dividends ||| Dividendos
+Herramientas ▾ ||| Tools ▾ ||| Ferramentas ▾
+Calculadora de opciones ||| Options calculator ||| Calculadora de opções
+Gamma (GEX) ||| Gamma (GEX) ||| Gama (GEX)
+¿Por dónde empiezo? ||| Where do I start? ||| Por onde começo?
+Bienvenido a ||| Welcome to ||| Bem-vindo à
+Plan Avanzado ||| Advanced plan ||| Plano Avançado
+Plan Básico ||| Basic plan ||| Plano Básico
+Plan Intermedio ||| Intermediate plan ||| Plano Intermediário
+sin rentabilidad ||| not profitable ||| sem rentabilidade
+muchas herramientas · estrategia sin construir ||| many tools · strategy not built yet ||| muitas ferramentas · estratégia ainda não construída
+Tienes las herramientas, aún no la rentabilidad ||| You have the tools, not the profits yet ||| Você tem as ferramentas, mas ainda não a rentabilidade
+Gráficos, cadenas, griegas… pero sin una estrategia probada el resultado no llega. El Centro de Comando es para construirla. ||| Charts, chains, Greeks… but without a proven strategy the results don't come. The Command Center is where you build it. ||| Gráficos, cadeias, gregas… mas sem uma estratégia testada o resultado não chega. O Centro de Comando serve para construí-la.
+En Optionsbb te acompañamos a hacer más efectiva tu estrategia y, si no la tienes, la construimos juntos. ||| At Optionsbb we help you make your strategy more effective and, if you don't have one, we build it together. ||| Na Optionsbb acompanhamos você para tornar sua estratégia mais eficaz e, se você não tem uma, construímos juntos.
+Tu dinero en el banco se deprecia ||| Your money in the bank loses value ||| Seu dinheiro no banco se desvaloriza
+La inflación le quita poder de compra cada año y el 401(k) solo crece si lo pones a trabajar. Si no empiezas hoy, tu futuro será igual que tu presente. ||| Inflation takes away purchasing power every year and your 401(k) only grows if you put it to work. If you don't start today, your future will be the same as your present. ||| A inflação tira poder de compra a cada ano e o 401(k) só cresce se você o colocar para trabalhar. Se você não começar hoje, seu futuro será igual ao seu presente.
+Ya invertiste, pero sin un método ||| You've invested, but without a method ||| Você já investiu, mas sem um método
+Tienes algunas acciones, pero decides con poca información. Falta una estrategia que genere ingresos mientras esperas. ||| You own some stocks, but you decide with little information. You're missing a strategy that generates income while you wait. ||| Você tem algumas ações, mas decide com pouca informação. Falta uma estratégia que gere renda enquanto você espera.
+¿Quién gana? ||| Who wins? ||| Quem ganha?
+El banco te paga ||| The bank pays you ||| O banco te paga
+El banco te cobra ||| The bank charges you ||| O banco te cobra
+{} anual ||| {} per year ||| {} ao ano
+Tasas de referencia editables por el administrador; revisa las de tu banco. ||| Reference rates editable by the administrator; check your own bank's. ||| Taxas de referência editáveis pelo administrador; confira as do seu banco.
+el dinero se deprecia ||| money loses value ||| o dinheiro se desvaloriza
+BANCO ||| BANK ||| BANCO
+FUTURO ||| FUTURE ||| FUTURO
+HOY → 20 años ||| TODAY → 20 years ||| HOJE → 20 anos
+¿Compro? ||| Buy? ||| Compro?
+¿Vendo? ¿Espero? ||| Sell? Wait? ||| Vendo? Espero?
+algo de bolsa, poco método ||| some stocks, little method ||| um pouco de bolsa, pouco método
+Resultado ||| Result ||| Resultado
+CADENA ||| CHAIN ||| CADEIA
+GREEKS ||| GREEKS ||| GREGAS
+Trabajadores cuyo dinero en el banco pierde valor ||| Workers whose money in the bank loses value ||| Trabalhadores cujo dinheiro no banco perde valor
+Inversores con algunas acciones y poco conocimiento ||| Investors with a few stocks and little knowledge ||| Investidores com algumas ações e pouco conhecimento
+Inversor con herramientas pero sin rentabilidad ||| Investor with tools but no profitability ||| Investidor com ferramentas, mas sem rentabilidade
+BIENVENIDO A OPTIONS BB ||| WELCOME TO OPTIONS BB ||| BEM-VINDO À OPTIONS BB
+Cuéntanos cómo inviertes ||| Tell us how you invest ||| Conte como você investe
+{} preguntas rápidas para mostrarte primero lo que más te sirve. Puedes repetirlo cuando quieras. ||| {} quick questions to show you first what's most useful to you. You can repeat it whenever you want. ||| {} perguntas rápidas para mostrar primeiro o que mais serve para você. Você pode repetir quando quiser.
+{} Para qué plazo inviertes la mayor parte de tu dinero ||| {} For what time horizon do you invest most of your money ||| {} Para qual prazo você investe a maior parte do seu dinheiro
+Más de {} años (retiro) ||| More than {} years (retirement) ||| Mais de {} anos (aposentadoria)
+{} a {} años ||| {} to {} years ||| {} a {} anos
+Semanas o meses ||| Weeks or months ||| Semanas ou meses
+{} Si tu cartera cae {} % en un mes, tú… ||| {} If your portfolio drops {} % in a month, you… ||| {} Se sua carteira cair {} % em um mês, você…
+Vendo para no perder más ||| Sell so I don't lose more ||| Vendo para não perder mais
+Me preocupo pero espero ||| Worry but wait ||| Me preocupo, mas espero
+Compro más ||| Buy more ||| Compro mais
+Busco operar la caída ||| Look to trade the drop ||| Busco operar a queda
+{} Qué esperas de tus acciones ||| {} What do you expect from your stocks ||| {} O que você espera das suas ações
+Que no pierdan valor ||| That they don't lose value ||| Que não percam valor
+Ingresos constantes (primas) ||| Steady income (premiums) ||| Renda constante (prêmios)
+Que crezcan ||| That they grow ||| Que cresçam
+Ganancias rápidas ||| Quick gains ||| Ganhos rápidos
+{} Cuánto tiempo dedicas a revisar el mercado ||| {} How much time do you spend checking the market ||| {} Quanto tempo você dedica a acompanhar o mercado
+Casi nada ||| Almost none ||| Quase nenhum
+Una vez por semana ||| Once a week ||| Uma vez por semana
+Cada día ||| Every day ||| Todos os dias
+Varias veces al día ||| Several times a day ||| Várias vezes ao dia
+Ver mi ruta ||| See my path ||| Ver meu caminho
+Responde las 4 preguntas. ||| Answer the 4 questions. ||| Responda as 4 perguntas.
+Tu ||| Your ||| Seu
+ruta ||| path ||| caminho
+Repetir cuestionario ||| Retake questionnaire ||| Refazer questionário
+Perfil: ||| Profile: ||| Perfil:
+Desarrolla tus estrategias ||| Develop your strategies ||| Desenvolva suas estratégias
+Más oportunidades ||| More opportunities ||| Mais oportunidades
+En tiempo real ||| In real time ||| Em tempo real
+Gestión automatizada ||| Automated management ||| Gestão automatizada
+Idioma ||| Language ||| Idioma
+Contenido educativo, no es asesoría financiera. Operar acciones y opciones conlleva riesgo de pérdida. Los datos pueden tener retraso o ser simulados. · v{} ||| Educational content, not financial advice. Trading stocks and options involves risk of loss. Data may be delayed or simulated. · v{} ||| Conteúdo educativo, não é assessoria financeira. Operar ações e opções envolve risco de perda. Os dados podem ter atraso ou ser simulados. · v{}
+¿Por dónde ||| Where do ||| Por onde
+empiezo? ||| I start? ||| começo?
+Plataforma, dinero necesario y expectativas realistas ||| Platform, money needed and realistic expectations ||| Plataforma, dinheiro necessário e expectativas realistas
+{} La plataforma ||| {} The platform ||| {} A plataforma
+Te recomendamos ||| We recommend ||| Recomendamos
+Thinkorswim de Charles Schwab ||| Thinkorswim by Charles Schwab ||| Thinkorswim da Charles Schwab
+. En Schwab las acciones cuestan ||| . At Schwab, stocks cost ||| . Na Schwab, as ações custam
+{} de comisión ||| {} commission ||| {} de comissão
+y las opciones ||| and options ||| e as opções
+{} por contrato ||| {} per contract ||| {} por contrato
+. Incluye ||| . It includes ||| . Inclui
+paperMoney ||| paperMoney ||| paperMoney
+, un simulador con dinero virtual para practicar antes de arriesgar un dólar. ||| , a simulator with virtual money to practice before risking a dollar. ||| , um simulador com dinheiro virtual para praticar antes de arriscar um dólar.
+Para operar opciones Schwab exige mínimos de cuenta y aprobación por niveles; consulta los requisitos vigentes en schwab.com antes de abrir la cuenta. ||| To trade options Schwab requires account minimums and tiered approval; check the current requirements at schwab.com before opening the account. ||| Para operar opções a Schwab exige mínimos de conta e aprovação por níveis; consulte os requisitos vigentes em schwab.com antes de abrir a conta.
+{} ¿Cuánto dinero necesito? ||| {} How much money do I need? ||| {} De quanto dinheiro preciso?
+Para el cover call necesitas ||| For a covered call you need ||| Para o covered call você precisa de
+{} acciones por contrato ||| {} shares per contract ||| {} ações por contrato
+. El capital depende del precio de la acción: ||| . The capital depends on the stock price: ||| . O capital depende do preço da ação:
+Acción ||| Stock ||| Ação
+Precio ||| Price ||| Preço
+{} acciones ||| {} shares ||| {} ações
+Prima mensual orientativa ||| Indicative monthly premium ||| Prêmio mensal orientativo
+Prima orientativa: {} – {} mensual del valor de las acciones. Varía con la volatilidad y no está garantizada. Puedes empezar en paperMoney sin capital. ||| Indicative premium: {} – {} per month of the stock value. It varies with volatility and is not guaranteed. You can start in paperMoney with no capital. ||| Prêmio orientativo: {} – {} ao mês do valor das ações. Varia com a volatilidade e não é garantido. Você pode começar no paperMoney sem capital.
+{} ¿Cuánto puedo ganar? ||| {} How much can I earn? ||| {} Quanto posso ganhar?
+Con cover call, un rango razonable de primas es de ||| With covered calls, a reasonable range of premiums is ||| Com covered call, uma faixa razoável de prêmios é de
+{} a {} mensual ||| {} to {} per month ||| {} a {} ao mês
+sobre el capital en acciones, ||| on the capital in shares, ||| sobre o capital em ações,
+mientras la acción no caiga ||| as long as the stock doesn't fall ||| enquanto a ação não cair
+. Si la acción baja, la prima amortigua parte de la pérdida pero no la elimina; si sube mucho, limitas la ganancia por encima del strike. ||| . If the stock falls, the premium cushions part of the loss but doesn't eliminate it; if it rises a lot, you cap your gain above the strike. ||| . Se a ação cair, o prêmio amortece parte da perda mas não a elimina; se subir muito, você limita o ganho acima do strike.
+Nadie puede prometerte un resultado. ||| Nobody can promise you a result. ||| Ninguém pode prometer um resultado a você.
+Operar acciones y opciones conlleva riesgo de pérdida. ||| Trading stocks and options involves risk of loss. ||| Operar ações e opções envolve risco de perda.
+¿Es verdad lo que dicen? ||| Is what they say true? ||| É verdade o que dizem?
+“¡Sígueme y serás millonario con {}!” ||| "Follow me and you'll be a millionaire with {}!" ||| "Siga-me e você será milionário com {}!"
+(El profeta no dice que él vive de vender el curso.) ||| (The prophet doesn't say he makes his living selling the course.) ||| (O profeta não diz que ele vive de vender o curso.)
+MENTIRA ||| LIE ||| MENTIRA
+ALQUILADO ||| RENTED ||| ALUGADO
+“Me hice rico en {} semanas… mira mi Ferrari.” ||| "I got rich in {} weeks… look at my Ferrari." ||| "Fiquei rico em {} semanas… olha minha Ferrari."
+(Es alquilado, y lo único que sube es el humo.) ||| (It's rented, and the only thing going up is the smoke.) ||| (É alugada, e a única coisa que sobe é a fumaça.)
+La riqueza con bolsa se construye con ||| Wealth in the market is built with ||| A riqueza na bolsa se constrói com
+método, riesgo controlado y tiempo ||| method, controlled risk and time ||| método, risco controlado e tempo
+. En Optionsbb te acompañamos a construir tu estrategia, sin humo. ||| . At Optionsbb we help you build your strategy, no smoke. ||| . Na Optionsbb acompanhamos você a construir sua estratégia, sem fumaça.
+Profeta calvo ||| Bald prophet ||| Profeta careca
+Vendedor con auto rojo y humo ||| Salesman with red car and smoke ||| Vendedor com carro vermelho e fumaça
+Mejores estrategias ||| Better strategies ||| Melhores estratégias
+más oportunidades ||| more opportunities ||| mais oportunidades
+un solo lugar ||| one place ||| um só lugar
+Estrategia ||| Strategy ||| Estratégia
+alcista ||| bullish ||| altista
+bajista ||| bearish ||| baixista
+Vela Verde ||| Green Candle ||| Vela Verde
+Martillo ||| Hammer ||| Martelo
+Cruce de Medias Móviles ||| Moving Average Crossover ||| Cruzamento de Médias Móveis
+Ruptura de Resistencia ||| Resistance Breakout ||| Rompimento de Resistência
+Envolvente Alcista ||| Bullish Engulfing ||| Engolfo de Alta
+Estrella de la Mañana ||| Morning Star ||| Estrela da Manhã
+Tres Soldados Blancos ||| Three White Soldiers ||| Três Soldados Brancos
+Harami Alcista ||| Bullish Harami ||| Harami de Alta
+Rebote en SMA {} ||| Bounce at SMA {} ||| Repique na SMA {}
+Vela con Volumen Explosivo ||| Candle with Explosive Volume ||| Vela com Volume Explosivo
+VELA VERDE ||| GREEN CANDLE ||| VELA VERDE
+· PATRÓN DE {} VELAS ||| · {}-CANDLE PATTERN ||| · PADRÃO DE {} VELAS
+⏱ TEMPORALIDAD: {} MINUTOS ||| ⏱ TIMEFRAME: {} MINUTES ||| ⏱ TEMPORALIDADE: {} MINUTOS
+ROJA ||| RED ||| VERMELHA
+VERDE ||| GREEN ||| VERDE
+SEÑAL DE ENTRADA · VELA {} ||| ENTRY SIGNAL · CANDLE {} ||| SINAL DE ENTRADA · VELA {}
+Regla de la app: {} velas rojas seguidas y luego {} verdes; la vela {} cierra por encima del cierre de la vela {} ||| App rule: {} red candles in a row and then {} green; candle {} closes above the close of candle {} ||| Regra do app: {} velas vermelhas seguidas e depois {} verdes; a vela {} fecha acima do fechamento da vela {}
+Vela Roja de Apertura ||| Red Opening Candle ||| Vela Vermelha de Abertura
+Estrella Fugaz ||| Shooting Star ||| Estrela Cadente
+Ruptura de Soporte ||| Support Breakdown ||| Rompimento de Suporte
+Envolvente Bajista ||| Bearish Engulfing ||| Engolfo de Baixa
+Estrella de la Tarde ||| Evening Star ||| Estrela da Tarde
+Tres Cuervos Negros ||| Three Black Crows ||| Três Corvos Negros
+Harami Bajista ||| Bearish Harami ||| Harami de Baixa
+Rechazo en SMA {} ||| Rejection at SMA {} ||| Rejeição na SMA {}
+- lista dinámica ||| - dynamic list ||| - lista dinâmica
+Señal ||| Signal ||| Sinal
+% Cambio ||| % Change ||| % Variação
+Tipo ||| Type ||| Tipo
+Volumen ||| Volume ||| Volume
+IDEA DEL DÍA ||| IDEA OF THE DAY ||| IDEIA DO DIA
+Mayor volumen en SPY (tendencia bajista) y QQQ (tendencia mixta). ||| Highest volume in SPY (bearish trend) and QQQ (mixed trend). ||| Maior volume em SPY (tendência de baixa) e QQQ (tendência mista).
+Abrir Mis listas → ||| Open My lists → ||| Abrir Minhas listas →
+Símbolo del gráfico ||| Chart symbol ||| Símbolo do gráfico
+Señales ahora ||| Signals now ||| Sinais agora
+Mis ||| My ||| Minhas
+listas ||| lists ||| listas
+Optionsbb te propone {} listas de {} acciones; tú armas las tuyas por nivel de riesgo ||| Optionsbb proposes {} lists of {} stocks; you build your own by risk level ||| A Optionsbb propõe {} listas de {} ações; você monta as suas por nível de risco
+Mi lista ({}/{}) ||| My list ({}/{}) ||| Minha lista ({}/{})
+Análisis de ||| Stock ||| Análise de
+acción ||| analysis ||| ação
